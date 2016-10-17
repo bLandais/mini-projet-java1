@@ -21,6 +21,9 @@ public class Personne {
     private PersonneGenre genre;
     private Personne partenaire;
 
+    public Personne() {
+    }
+
     public Personne(String nomNaissance, String prenom, String surnom, GregorianCalendar dateNaissance, String lieuNaissance, GregorianCalendar dateDeces, String nationalite, float taille, float poids, PersonneGenre genre, Personne partenaire) {
         this.nomNaissance = nomNaissance;
         this.prenom = prenom;
@@ -33,9 +36,6 @@ public class Personne {
         this.poids = poids;
         this.genre = genre;
         this.partenaire = partenaire;
-        if (this.partenaire != null && this.genre == PersonneGenre.Femme) {
-            this.nomCourant = this.partenaire.nomNaissance;
-        }
     }
 
     public long getAge() {
@@ -48,6 +48,14 @@ public class Personne {
         long differenceMs = currentDate.getTime().getTime() - this.dateNaissance.getTime().getTime();
         Timestamp difference = new Timestamp(differenceMs);
         return difference.getYear() - 70;
+    }
+
+    private void findGenre() {
+        if (this.partenaire != null && this.genre == PersonneGenre.Femme) {
+            this.nomCourant = this.partenaire.nomNaissance;
+        } else {
+            this.nomCourant = null;
+        }
     }
 
     public String getNomNaissance() {
@@ -110,6 +118,11 @@ public class Personne {
         return this.genre;
     }
 
+    public void setGenre(PersonneGenre newGenre) {
+        this.genre = newGenre;
+        this.findGenre();
+    }
+
     public Personne getPartenaire() {
         return this.partenaire;
     }
@@ -118,5 +131,16 @@ public class Personne {
         this.partenaire = partenaire;
     }
 
+    public String getNom() {
+        if (this.nomCourant != null) {
+            return this.nomCourant;
+        } else {
+            return this.nomNaissance;
+        }
+    }
+
+    public void sExprimer(String phrase) {
+        System.out.println(this.prenom + " " + this.getNom() + " a dit: " + phrase);
+    }
 }
 
