@@ -44,6 +44,6 @@ public class Set {
     }
 
     public void Jouer(Jeu jeuAJouer){
-        
+
     }
 }

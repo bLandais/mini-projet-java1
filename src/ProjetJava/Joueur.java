@@ -24,7 +24,7 @@ public class Joueur extends Personne {
             this.vetement = new JoueurVetement(this, JoueurTypeVetement.Short, couleurVetement);
         }
     }
-
+ 
     public MainJeu getMainJeu() {
         return this.mainJeu;
     }
