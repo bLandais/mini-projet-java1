@@ -35,5 +35,3 @@ public Arbitre getArbitre(){return this.arbitre;}
 public String getNiveau(){return this.niveau;}
 public Categorie getCategore(){return this.categorie;}
 }
-
-public 
