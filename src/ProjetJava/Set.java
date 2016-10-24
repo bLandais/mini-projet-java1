@@ -34,9 +34,16 @@ public class Set {
             int ecartJeu = Math.abs(this.jeuxEquipe1.size() - this.jeuxEquipe2.size());
             if (ecartJeu >= 2) {
                 return joueurMax;
+            } else {
+                return 0;
             }
         } else {
             // Code pour set décisif...
+            return -1;
         }
+    }
+
+    public void Jouer(Jeu jeuAJouer){
+        
     }
 }
