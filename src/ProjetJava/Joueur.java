@@ -19,9 +19,9 @@ public class Joueur extends Personne {
         this.classement = classement;
         this.entraineur = entraineur;
         if (this.getGenre() == PersonneGenre.Femme) {
-            this.vetement = new JoueurVetement(this, TypeVetement.Jupe, couleurVetement);
+            this.vetement = new JoueurVetement(this, JoueurTypeVetement.Jupe, couleurVetement);
         } else {
-            this.vetement = new JoueurVetement(this, TypeVetement.Short, couleurVetement);
+            this.vetement = new JoueurVetement(this, JoueurTypeVetement.Short, couleurVetement);
         }
     }
 
