@@ -3,12 +3,32 @@ package ProjetJava;
 /**
  * Created by Antoine on 24/10/2016.
  */
-public enum PointJeu {
-    Point0(0), Point15(1), Point30(2), Point40(3), Avantage(4);
+public class PointJeu {
+    private int pointValue;
 
-    public int pointValue;
-
-    PointJeu(int pointJeu) {
+    public PointJeu(int pointJeu) {
         this.pointValue = pointJeu;
+    }
+
+    public int GetPointValue(){
+        return this.pointValue;
+    }
+
+    @Override
+    public String toString(){
+        switch (this.pointValue){
+            case 0:
+                return "0";
+            case 1:
+                return "15";
+            case 2:
+                return "30";
+            case 3:
+                return "40";
+            case 4:
+                return "AV";
+            default:
+                return null;
+        }
     }
 }

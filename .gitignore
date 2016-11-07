@@ -1,1 +1,12 @@
 *.xml
+out/production/ProjetJava/ProjetJava/Categorie.class
+*.xml
+.idea/misc.xml
+*.xml
+out/production/ProjetJava/ProjetJava/Set.class
+out/production/ProjetJava/ProjetJava/Match.class
+out/production/ProjetJava/ProjetJava/Jeu.class
+out/production/ProjetJava/ProjetJava/Jeu$JeuStatus.class
+out/production/ProjetJava/ProjetJava/CategorieGenre.class
+out/production/ProjetJava/ProjetJava/PointJeu.class
+.idea/misc.xml

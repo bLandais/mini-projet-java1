@@ -20,6 +20,14 @@ public class Set {
         this.nbJeuMiniPourVictoire = nbJeuMiniPourVictoire;
     }
 
+    public void AddJeu(int equipe, Jeu jeuAAjouter) {
+        if (equipe == 1) {
+            this.jeuxEquipe1.add(jeuAAjouter);
+        } else {
+            this.jeuxEquipe2.add(jeuAAjouter);
+        }
+    }
+
     public int checkWinner() {
         if (!this.estDecisif) {
             int joueurMax = 1;
@@ -43,7 +51,7 @@ public class Set {
         }
     }
 
-    public void Jouer(Jeu jeuAJouer){
+    public void Jouer(Jeu jeuAJouer) {
 
     }
 }
