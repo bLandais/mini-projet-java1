@@ -1,11 +1,14 @@
 package ProjetJava;
 
+import java.util.ArrayList;
+
 /**
  * Created by Antoine on 24/10/2016.
  */
 public class Jeu {
     private PointJeu pointsEquipe1 = new PointJeu(0);
     private PointJeu pointsEquipe2 = new PointJeu(0);
+    private ArrayList<Echange> echanges = new ArrayList<Echange>();
     private JeuStatus jeuStatus = JeuStatus.EnCours;
 
     public enum JeuStatus {
@@ -19,7 +22,7 @@ public class Jeu {
     public void AddPoint(int equipe) {
         if (this.jeuStatus == JeuStatus.EnCours) {
             if (equipe == 1) {
-                PointJeu[] result = NextPoint(this.pointsEquipe1, this.pointsEquipe2);
+                PointJeu[] result = nextPoint(this.pointsEquipe1, this.pointsEquipe2);
                 if (result == null) {
                     this.jeuStatus = JeuStatus.Gagnant1;
                 } else {
@@ -27,7 +30,7 @@ public class Jeu {
                     this.pointsEquipe2 = result[1];
                 }
             } else if (equipe == 2) {
-                PointJeu[] result = NextPoint(this.pointsEquipe2, this.pointsEquipe1);
+                PointJeu[] result = nextPoint(this.pointsEquipe2, this.pointsEquipe1);
                 if (result == null) {
                     this.jeuStatus = JeuStatus.Gagnant2;
                 } else {
@@ -38,7 +41,7 @@ public class Jeu {
         }
     }
 
-    private static PointJeu[] NextPoint(PointJeu pointsActuels1, PointJeu pointsActuels2) {
+    private static PointJeu[] nextPoint(PointJeu pointsActuels1, PointJeu pointsActuels2) {
         String pts1 = pointsActuels1.toString();
         String pts2 = pointsActuels2.toString();
         if (pts2 != "AV") {
@@ -61,11 +64,15 @@ public class Jeu {
         return new PointJeu[]{pointsActuels1, pointsActuels2};
     }
 
-    public PointJeu GetPointsEquipe1() {
+    public PointJeu getPointsEquipe1() {
         return this.pointsEquipe1;
     }
 
-    public PointJeu GetPointsEquipe2() {
+    public PointJeu getPointsEquipe2() {
         return this.pointsEquipe2;
+    }
+
+    public ArrayList<Echange> getEchanges(){
+        return this.echanges;
     }
 }
