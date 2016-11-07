@@ -1,37 +1,69 @@
 package ProjetJava;
 
+import java.util.ArrayList;
+
 /**
  * Created by Toshiba on 24/10/2016.
  */
 public class Match {
-        private Joueur j1;
-        private Joueur j2;
-        private Joueur j3;
-        private Joueur j4;
-        private Arbitre arbitre;
-        private Categorie categorie;
-        private String niveau;
-        private int points;
+    private ArrayList<Joueur> equipe1 = new ArrayList<Joueur>();
+    private ArrayList<Joueur> equipe2 = new ArrayList<Joueur>();
+    private ArrayList<Set> sets1 = new ArrayList<Set>();
+    private ArrayList<Set> sets2 = new ArrayList<Set>();
+    private Arbitre arbitre;
+    private Categorie categorie;
+    private String niveau;
+    private int points;
 
-public Match(Joueur j1,Joueur j2, Arbitre arbitre){
-        this.arbitre=arbitre;
-        this.j1=j1;
-        this.j2=j2;
+    public Match(Joueur j1, Joueur j2, Arbitre arbitre) {
+        this.arbitre = arbitre;
+        this.equipe1.add(j1);
+        this.equipe2.add(j2);
+    }
 
-}
-public Match(Joueur j1,Joueur j2,Joueur j3,Joueur j4, Arbitre arbitre){
-        this.arbitre=arbitre;
-        this.j1=j1;
-        this.j2=j2;
-        this.j3=j3;
-        this.j4=j4;
-}
+    public Match(Joueur j1, Joueur j2, Joueur j3, Joueur j4, Arbitre arbitre) {
+        this.arbitre = arbitre;
+        this.equipe1.add(j1);
+        this.equipe1.add(j2);
+        this.equipe2.add(j3);
+        this.equipe2.add(j4);
+    }
 
-public Joueur getJ1() {return this.j1;}
-public Joueur getJ2() {return this.j2;}
-public Joueur getJ3() {return this.j3;}
-public Joueur getJ4() {return this.j4;}
-public Arbitre getArbitre(){return this.arbitre;}
-public String getNiveau(){return this.niveau;}
-public Categorie getCategore(){return this.categorie;}
+    public ArrayList<Joueur> getEquipe1() {
+        return this.equipe1;
+    }
+
+    public ArrayList<Joueur> getEquipe2() {
+        return this.equipe2;
+    }
+
+    public Arbitre getArbitre() {
+        return this.arbitre;
+    }
+
+    public String getNiveau() {
+        return this.niveau;
+    }
+
+    public Categorie getCategore() {
+        return this.categorie;
+    }
+
+    public String GetNomEquipe(int equipe){
+        String nomEquipe = "";
+        ArrayList<Joueur> currentEquipe = null;
+        if(equipe == 1){
+            currentEquipe = this.equipe1;
+        }
+        else{
+            currentEquipe = this.equipe2;
+        }
+        if (currentEquipe.size() > 0){
+            nomEquipe = currentEquipe.get(0).getNom();
+            if (currentEquipe.size() > 1){
+                nomEquipe = nomEquipe + "/" + currentEquipe.get(1).getNom();
+            }
+        }
+        return nomEquipe;
+    }
 }

@@ -6,7 +6,7 @@ package ProjetJava;
 public class Echange {
     private boolean isService = true;
     private EchangeStatus status = EchangeStatus.EnCours;
-    private int balleService;
+    private int balleService = 0;
     private int currentJoueur;
 
     public enum EchangeStatus {
