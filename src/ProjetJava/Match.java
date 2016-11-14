@@ -8,8 +8,7 @@ import java.util.ArrayList;
 public class Match {
     private ArrayList<Joueur> equipe1 = new ArrayList<Joueur>();
     private ArrayList<Joueur> equipe2 = new ArrayList<Joueur>();
-    private ArrayList<Set> sets1 = new ArrayList<Set>();
-    private ArrayList<Set> sets2 = new ArrayList<Set>();
+    private ArrayList<Set> sets = new ArrayList<Set>();
     private Arbitre arbitre;
     private Categorie categorie;
     private String niveau;
@@ -29,12 +28,28 @@ public class Match {
         this.equipe2.add(j4);
     }
 
+    public int getScore(int equipe) {
+        int scoreCount = 0;
+        for (int i = 0; i < this.sets.size(); i++) {
+            if (equipe == 1 & this.sets.get(i).getStatus() == Set.SetStatus.Gagnant1) {
+                scoreCount++;
+            } else if (equipe == 2 & this.sets.get(i).getStatus() == Set.SetStatus.Gagnant2) {
+                scoreCount++;
+            }
+        }
+        return scoreCount;
+    }
+
     public ArrayList<Joueur> getEquipe1() {
         return this.equipe1;
     }
 
     public ArrayList<Joueur> getEquipe2() {
         return this.equipe2;
+    }
+
+    public ArrayList<Set> getSets() {
+        return this.sets;
     }
 
     public Arbitre getArbitre() {
@@ -49,21 +64,28 @@ public class Match {
         return this.categorie;
     }
 
-    public String GetNomEquipe(int equipe){
+    public String getNomEquipe(int equipe) {
         String nomEquipe = "";
         ArrayList<Joueur> currentEquipe = null;
-        if(equipe == 1){
+        if (equipe == 1) {
             currentEquipe = this.equipe1;
-        }
-        else{
+        } else {
             currentEquipe = this.equipe2;
         }
-        if (currentEquipe.size() > 0){
+        if (currentEquipe.size() > 0) {
             nomEquipe = currentEquipe.get(0).getNom();
-            if (currentEquipe.size() > 1){
+            if (currentEquipe.size() > 1) {
                 nomEquipe = nomEquipe + "/" + currentEquipe.get(1).getNom();
             }
         }
         return nomEquipe;
+    }
+
+    public static int getOtherEquipe(int equipe) {
+        if (equipe == 1) {
+            return 2;
+        } else {
+            return 1;
+        }
     }
 }

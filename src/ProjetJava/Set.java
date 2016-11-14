@@ -6,49 +6,76 @@ import java.util.ArrayList;
  * Created by Antoine on 24/10/2016.
  */
 public class Set {
-    private ArrayList<Jeu> jeuxEquipe1 = new ArrayList<Jeu>();
-    private ArrayList<Jeu> jeuxEquipe2 = new ArrayList<Jeu>();
+    private ArrayList<Jeu> jeux = new ArrayList<Jeu>();
     private int nbJeuMiniPourVictoire;
     private boolean estDecisif;
+    private Match match;
+    private SetStatus status = SetStatus.EnCours;
 
-    public Set(boolean estDecisif) {
-        this.estDecisif = estDecisif;
+    public enum SetStatus {
+        EnCours, Gagnant1, Gagnant2
     }
 
-    public Set(boolean estDecisif, int nbJeuMiniPourVictoire) {
+    public Set(Match match, boolean estDecisif) {
+        this.estDecisif = estDecisif;
+        this.match = match;
+    }
+
+    public Set(Match match, boolean estDecisif, int nbJeuMiniPourVictoire) {
+        this.match = match;
         this.estDecisif = estDecisif;
         this.nbJeuMiniPourVictoire = nbJeuMiniPourVictoire;
     }
 
-    public void AddJeu(int equipe, Jeu jeuAAjouter) {
-        if (equipe == 1) {
-            this.jeuxEquipe1.add(jeuAAjouter);
-        } else {
-            this.jeuxEquipe2.add(jeuAAjouter);
+    public int jeuxGagnes(int equipe) {
+        int nbGagnes = 0;
+        for (int i = 0; i < jeux.size(); i++) {
+            if (equipe == 1 & jeux.get(i).getStatus() == Jeu.JeuStatus.Gagnant1) {
+                nbGagnes++;
+            } else if (equipe == 2 & jeux.get(i).getStatus() == Jeu.JeuStatus.Gagnant2) {
+                nbGagnes++;
+            }
         }
+        return nbGagnes;
     }
 
-    public int checkWinner() {
+    public void checkWinner() {
         if (!this.estDecisif) {
             int joueurMax = 1;
-            int max = this.jeuxEquipe1.size();
-            if (this.jeuxEquipe2.size() > max) {
+            int max = this.jeuxGagnes(1);
+            if (this.jeuxGagnes(2) > max) {
                 joueurMax = 2;
-                max = this.jeuxEquipe2.size();
+                max = this.jeuxGagnes(2);
             }
             if (max < this.nbJeuMiniPourVictoire) {
-                return 0;
+                this.status=SetStatus.EnCours;
+                return;
             }
-            int ecartJeu = Math.abs(this.jeuxEquipe1.size() - this.jeuxEquipe2.size());
+            int ecartJeu = Math.abs(this.jeuxGagnes(1) - this.jeuxGagnes(2));
             if (ecartJeu >= 2) {
-                return joueurMax;
+                if (joueurMax == 1){
+                    this.status = SetStatus.Gagnant1;
+                }
+                else{
+                    this.status = SetStatus.Gagnant2;
+                }
+                return;
             } else {
-                return 0;
+                this.status = SetStatus.EnCours;
+                return;
             }
         } else {
             // Code pour set décisif...
-            return -1;
+            return;
         }
+    }
+
+    public Match getMatch() {
+        return this.match;
+    }
+
+    public SetStatus getStatus(){
+        return this.status;
     }
 
     public void Jouer(Jeu jeuAJouer) {

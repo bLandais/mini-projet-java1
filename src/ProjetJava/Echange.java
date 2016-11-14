@@ -20,7 +20,7 @@ public class Echange {
 
     public Echange(Jeu jeu,int currentJoueur) {
         this.jeu = jeu;
-        this.currentJoueur = currentJoueur;
+        this.currentJoueur = jeu.getServiceEquipe();
     }
 
     public enum EchangeEvenement {
@@ -62,5 +62,9 @@ public class Echange {
         } else {
             this.currentJoueur = 1;
         }
+    }
+
+    public Jeu getJeu(){
+        return this.jeu;
     }
 }
