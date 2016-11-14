@@ -10,13 +10,14 @@ public class Jeu {
     private PointJeu pointsEquipe2 = new PointJeu(0);
     private ArrayList<Echange> echanges = new ArrayList<Echange>();
     private JeuStatus jeuStatus = JeuStatus.EnCours;
+    private Set set;
 
     public enum JeuStatus {
         EnCours, Gagnant1, Gagnant2
     }
 
-    public Jeu() {
-
+    public Jeu(Set set) {
+        this.set = set;
     }
 
     public void AddPoint(int equipe) {
@@ -72,7 +73,7 @@ public class Jeu {
         return this.pointsEquipe2;
     }
 
-    public ArrayList<Echange> getEchanges(){
+    public ArrayList<Echange> getEchanges() {
         return this.echanges;
     }
 }

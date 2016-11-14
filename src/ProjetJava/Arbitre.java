@@ -15,7 +15,7 @@ public class Arbitre extends Personne {
         System.out.println("L'arbitre " + super.getPrenom() + " " + super.getNom() + " a dit au micro: " + phrase);
     }
 
-    public void annonceEchange(Echange echange,)
+    public void annonceEchange(Echange echange){}
 
     public void litige(Joueur joueur){
         System.out.println("Litige !");

@@ -8,6 +8,7 @@ public class Echange {
     private EchangeStatus status = EchangeStatus.EnCours;
     private int balleService = 0;
     private int currentJoueur;
+    private Jeu jeu;
 
     public enum EchangeStatus {
         EnCours, Gagnant1, Gagnant2
@@ -17,7 +18,8 @@ public class Echange {
         return this.status;
     }
 
-    public Echange(int currentJoueur) {
+    public Echange(Jeu jeu,int currentJoueur) {
+        this.jeu = jeu;
         this.currentJoueur = currentJoueur;
     }
 
