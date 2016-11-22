@@ -1,4 +1,4 @@
-package ProjetJava;
+package ProjetJava.Personnes;
 
 /**
  * Created by Antoine on 17/10/2016.

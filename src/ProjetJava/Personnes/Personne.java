@@ -1,4 +1,4 @@
-package ProjetJava;
+package ProjetJava.Personnes;
 
 import java.util.GregorianCalendar;
 import java.sql.Timestamp;

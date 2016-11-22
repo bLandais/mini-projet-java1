@@ -1,4 +1,4 @@
-package ProjetJava;
+package ProjetJava.Tennis;
 
 /**
  * Created by Antoine on 07/11/2016.

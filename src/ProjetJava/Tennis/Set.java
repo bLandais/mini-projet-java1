@@ -1,4 +1,4 @@
-package ProjetJava;
+package ProjetJava.Tennis;
 
 import java.util.ArrayList;
 

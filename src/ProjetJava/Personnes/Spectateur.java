@@ -1,6 +1,7 @@
-package ProjetJava;
+package ProjetJava.Personnes;
 
-import java.util.GregorianCalendar;
+import ProjetJava.Personnes.Personne;
+import ProjetJava.Personnes.PersonneGenre;
 
 /**
  * Created by Antoine on 17/10/2016.

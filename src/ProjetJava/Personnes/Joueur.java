@@ -1,4 +1,6 @@
-package ProjetJava;
+package ProjetJava.Personnes;
+
+import ProjetJava.Tennis.MainJeu;
 
 import java.util.GregorianCalendar;
 
@@ -11,8 +13,9 @@ public class Joueur extends Personne {
     private int classement;
     private Personne entraineur;
     private JoueurVetement vetement;
+    private int reputation;
 
-    public Joueur(String nomNaissance, String prenom, String surnom, GregorianCalendar dateNaissance, String lieuNaissance, GregorianCalendar dateDeces, String nationalite, float taille, float poids, PersonneGenre genre, Personne partenaire, MainJeu mainDeJeu, String sponsor, int classement, Personne entraineur, String couleurVetement) {
+    public Joueur(String nomNaissance, String prenom, String surnom, GregorianCalendar dateNaissance, String lieuNaissance, GregorianCalendar dateDeces, String nationalite, float taille, float poids, PersonneGenre genre, Personne partenaire, MainJeu mainDeJeu, String sponsor, int classement, Personne entraineur, String couleurVetement, int reputation) {
         super(nomNaissance, prenom, surnom, dateNaissance, lieuNaissance, dateDeces, nationalite, taille, poids, genre, partenaire);
         this.sponsor = sponsor;
         this.mainJeu = mainDeJeu;
@@ -23,6 +26,7 @@ public class Joueur extends Personne {
         } else {
             this.vetement = new JoueurVetement(this, JoueurTypeVetement.Short, couleurVetement);
         }
+        this.reputation = reputation;
     }
  
     public MainJeu getMainJeu() {
@@ -43,5 +47,9 @@ public class Joueur extends Personne {
 
     public JoueurVetement getVetement() {
         return this.vetement;
+    }
+
+    public int getReputation(){
+        return this.reputation;
     }
 }

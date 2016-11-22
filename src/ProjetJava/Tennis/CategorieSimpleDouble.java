@@ -1,4 +1,4 @@
-package ProjetJava;
+package ProjetJava.Tennis;
 
 /**
  * Created by Toshiba on 24/10/2016.

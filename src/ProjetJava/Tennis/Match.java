@@ -1,4 +1,7 @@
-package ProjetJava;
+package ProjetJava.Tennis;
+
+import ProjetJava.Personnes.Arbitre;
+import ProjetJava.Personnes.Joueur;
 
 import java.util.ArrayList;
 
