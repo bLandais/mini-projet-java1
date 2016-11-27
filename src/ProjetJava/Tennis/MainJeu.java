@@ -1,8 +1,14 @@
 package ProjetJava.Tennis;
 
 /**
- * Created by Antoine on 17/10/2016.
+ * The enum Main jeu.
  */
 public enum MainJeu {
-    Droitier,Gauche
+    /**
+     * Droitier main jeu.
+     */
+    Droitier, /**
+     * Gauche main jeu.
+     */
+    Gauche
 }

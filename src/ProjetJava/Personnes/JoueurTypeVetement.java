@@ -1,8 +1,14 @@
 package ProjetJava.Personnes;
 
 /**
- * Created by Antoine on 17/10/2016.
+ * The enum Joueur type vetement.
  */
 public enum JoueurTypeVetement {
-    Short,Jupe
+    /**
+     * Short joueur type vetement.
+     */
+    Short, /**
+     * Jupe joueur type vetement.
+     */
+    Jupe
 }

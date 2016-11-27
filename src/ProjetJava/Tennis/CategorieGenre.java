@@ -1,9 +1,18 @@
 package ProjetJava.Tennis;
 
 /**
- * Created by Toshiba on 24/10/2016.
+ * The enum Categorie genre.
  */
 public enum CategorieGenre{
-     homme,femme,mixte
+     /**
+      * Homme categorie genre.
+      */
+     Homme, /**
+      * Femme categorie genre.
+      */
+     Femme, /**
+      * Mixte categorie genre.
+      */
+     Mixte
 
 }

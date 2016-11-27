@@ -1,8 +1,14 @@
 package ProjetJava.Personnes;
 
 /**
- * Created by Antoine on 17/10/2016.
+ * The enum Personne genre.
  */
 public enum PersonneGenre {
-    Homme,Femme
+    /**
+     * Homme personne genre.
+     */
+    Homme, /**
+     * Femme personne genre.
+     */
+    Femme
 }

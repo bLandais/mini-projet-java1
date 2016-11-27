@@ -1,22 +1,47 @@
 package ProjetJava.Tennis;
 
 /**
- * Created by Antoine on 24/10/2016.
+ * The type Point jeu.
  */
 public class PointJeu {
     private int pointValue;
+    private boolean decisif;
 
-    public PointJeu(int pointJeu) {
+    /**
+     * Instantiates a new Point jeu.
+     *
+     * @param pointJeu point jeu
+     * @param decisif  decisif
+     */
+    public PointJeu(int pointJeu, boolean decisif) {
         this.pointValue = pointJeu;
+        this.decisif=decisif;
     }
 
-    public int GetPointValue(){
+    /**
+     * Gets point value.
+     *
+     * @return point value
+     */
+    public int getPointValue() {
         return this.pointValue;
     }
 
+    /**
+     * Is decisif boolean.
+     *
+     * @return isDecisif.
+     */
+    public boolean isDecisif() {
+        return decisif;
+    }
+
     @Override
-    public String toString(){
-        switch (this.pointValue){
+    public String toString() {
+        if (this.decisif) {
+            return this.pointValue + "";
+        }
+        switch (this.pointValue) {
             case 0:
                 return "0";
             case 1:

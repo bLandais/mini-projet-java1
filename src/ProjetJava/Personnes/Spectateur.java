@@ -4,12 +4,20 @@ import ProjetJava.Personnes.Personne;
 import ProjetJava.Personnes.PersonneGenre;
 
 /**
- * Created by Antoine on 17/10/2016.
+ * The type Spectateur.
  */
-public class Spectateur extends Personne {
+public class Spectateur extends Personne implements AssisterMatch{
     private String nomTribune;
     private int numeroPlace;
 
+    /**
+     * Instantiates a new Spectateur.
+     *
+     * @param nomTribune     nom de tribune
+     * @param numeroPlace    numero de place
+     * @param lunettes       lunettes
+     * @param couleurChemise couleur de chemise
+     */
     public Spectateur(String nomTribune, int numeroPlace, boolean lunettes, String couleurChemise) {
         this.numeroPlace = numeroPlace;
         this.nomTribune = nomTribune;

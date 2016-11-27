@@ -1,8 +1,14 @@
 package ProjetJava.Tennis;
 
 /**
- * Created by Toshiba on 24/10/2016.
+ * The enum Categorie simple double.
  */
 public enum CategorieSimpleDouble {
-    Simple,Double;
+    /**
+     * Simple categorie simple double.
+     */
+    Simple, /**
+     * Double categorie simple double.
+     */
+    Double;
 }

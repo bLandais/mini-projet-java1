@@ -1,0 +1,3111 @@
+RESUME DU TOURNOI
+Catégorie Homme Simple
+1er tour
+
+1er tour Match 1
+
+Match opposant Peer à Maxma
+Match remporté par Peer
+Peer  2 6 3 6 6
+Maxma  6 2 6 1 3
+Nombre de coups : 548
+Nombre d'échanges : 275
+Nombre de jeux : 41
+Nombre de sets : 5
+Doubles fautes : Peer 23 | Maxma 26
+
+1er tour Match 2
+
+Match opposant Grega à Warder
+Match remporté par Grega
+Grega  6 0 7 6
+Warder  4 6 5 0
+Nombre de coups : 470
+Nombre d'échanges : 236
+Nombre de jeux : 34
+Nombre de sets : 4
+Doubles fautes : Grega 19 | Warder 22
+
+1er tour Match 3
+
+Match opposant Valencia à Delphina
+Match remporté par Delphina
+Valencia  7 3 6 5
+Delphina  5 6 7 7
+Nombre de coups : 601
+Nombre d'échanges : 284
+Nombre de jeux : 46
+Nombre de sets : 4
+Doubles fautes : Valencia 32 | Delphina 27
+
+1er tour Match 4
+
+Match opposant Mike à Dorcus
+Match remporté par Dorcus
+Mike  1 2 0
+Dorcus  6 6 6
+Nombre de coups : 250
+Nombre d'échanges : 123
+Nombre de jeux : 21
+Nombre de sets : 3
+Doubles fautes : Mike 24 | Dorcus 11
+
+1er tour Match 5
+
+Match opposant Earleen à Nicolas
+Match remporté par Earleen
+Earleen  7 6 5 6
+Nicolas  6 3 7 4
+Nombre de coups : 567
+Nombre d'échanges : 305
+Nombre de jeux : 44
+Nombre de sets : 4
+Doubles fautes : Earleen 31 | Nicolas 32
+
+1er tour Match 6
+
+Match opposant Bastien à Whatley
+Match remporté par Bastien
+Bastien  6 7 7
+Whatley  4 6 6
+Nombre de coups : 525
+Nombre d'échanges : 258
+Nombre de jeux : 36
+Nombre de sets : 3
+Doubles fautes : Bastien 29 | Whatley 25
+
+1er tour Match 7
+
+Match opposant Etom à Zumwalt
+Match remporté par Etom
+Etom  7 3 3 6 7
+Zumwalt  5 6 6 4 5
+Nombre de coups : 680
+Nombre d'échanges : 337
+Nombre de jeux : 52
+Nombre de sets : 5
+Doubles fautes : Etom 34 | Zumwalt 35
+
+1er tour Match 8
+
+Match opposant Stephanie à Cooperman
+Match remporté par Cooperman
+Stephanie  4 6 6
+Cooperman  6 7 7
+Nombre de coups : 445
+Nombre d'échanges : 229
+Nombre de jeux : 36
+Nombre de sets : 3
+Doubles fautes : Stephanie 25 | Cooperman 22
+
+1er tour Match 9
+
+Match opposant Maeve à Fernas
+Match remporté par Maeve
+Maeve  6 3 6 6
+Fernas  4 6 1 4
+Nombre de coups : 499
+Nombre d'échanges : 226
+Nombre de jeux : 36
+Nombre de sets : 4
+Doubles fautes : Maeve 19 | Fernas 24
+
+1er tour Match 10
+
+Match opposant Ditmore à Harv
+Match remporté par Ditmore
+Ditmore  4 6 2 7 7
+Harv  6 3 6 5 5
+Nombre de coups : 655
+Nombre d'échanges : 335
+Nombre de jeux : 51
+Nombre de sets : 5
+Doubles fautes : Ditmore 26 | Harv 34
+
+1er tour Match 11
+
+Match opposant Aisha à Bui
+Match remporté par Aisha
+Aisha  7 3 6 3 6
+Bui  5 6 4 6 3
+Nombre de coups : 645
+Nombre d'échanges : 328
+Nombre de jeux : 49
+Nombre de sets : 5
+Doubles fautes : Aisha 28 | Bui 38
+
+1er tour Match 12
+
+Match opposant Wager à Rafi
+Match remporté par Wager
+Wager  6 6 6
+Rafi  4 2 4
+Nombre de coups : 381
+Nombre d'échanges : 199
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Wager 19 | Rafi 19
+
+1er tour Match 13
+
+Match opposant Mukerji à Lindo
+Match remporté par Mukerji
+Mukerji  7 6 6
+Lindo  6 3 4
+Nombre de coups : 395
+Nombre d'échanges : 206
+Nombre de jeux : 32
+Nombre de sets : 3
+Doubles fautes : Mukerji 23 | Lindo 29
+
+1er tour Match 14
+
+Match opposant Riella à Siddon
+Match remporté par Riella
+Riella  5 4 6 6 7
+Siddon  7 6 3 4 5
+Nombre de coups : 719
+Nombre d'échanges : 367
+Nombre de jeux : 53
+Nombre de sets : 5
+Doubles fautes : Riella 41 | Siddon 41
+
+1er tour Match 15
+
+Match opposant Marlon à Jonah
+Match remporté par Marlon
+Marlon  7 6 7
+Jonah  6 3 5
+Nombre de coups : 404
+Nombre d'échanges : 213
+Nombre de jeux : 34
+Nombre de sets : 3
+Doubles fautes : Marlon 30 | Jonah 24
+
+1er tour Match 16
+
+Match opposant Marder à Jacobah
+Match remporté par Marder
+Marder  0 5 7 6 6
+Jacobah  6 7 5 1 2
+Nombre de coups : 601
+Nombre d'échanges : 309
+Nombre de jeux : 45
+Nombre de sets : 5
+Doubles fautes : Marder 39 | Jacobah 31
+
+1er tour Match 17
+
+Match opposant Vanya à Reba
+Match remporté par Vanya
+Vanya  1 6 6 6
+Reba  6 3 3 4
+Nombre de coups : 439
+Nombre d'échanges : 224
+Nombre de jeux : 35
+Nombre de sets : 4
+Doubles fautes : Vanya 20 | Reba 24
+
+1er tour Match 18
+
+Match opposant Schalles à Whitman
+Match remporté par Whitman
+Schalles  7 6 2 6
+Whitman  5 7 6 7
+Nombre de coups : 604
+Nombre d'échanges : 304
+Nombre de jeux : 46
+Nombre de sets : 4
+Doubles fautes : Schalles 31 | Whitman 28
+
+1er tour Match 19
+
+Match opposant Almeria à Boff
+Match remporté par Boff
+Almeria  4 5 4
+Boff  6 7 6
+Nombre de coups : 379
+Nombre d'échanges : 207
+Nombre de jeux : 32
+Nombre de sets : 3
+Doubles fautes : Almeria 23 | Boff 23
+
+1er tour Match 20
+
+Match opposant Bumgardner à Lucy
+Match remporté par Lucy
+Bumgardner  2 4 4
+Lucy  6 6 6
+Nombre de coups : 415
+Nombre d'échanges : 202
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Bumgardner 17 | Lucy 16
+
+1er tour Match 21
+
+Match opposant Hallagan à Endres
+Match remporté par Hallagan
+Hallagan  6 6 1 6
+Endres  2 4 6 4
+Nombre de coups : 478
+Nombre d'échanges : 238
+Nombre de jeux : 35
+Nombre de sets : 4
+Doubles fautes : Hallagan 21 | Endres 27
+
+1er tour Match 22
+
+Match opposant Jain à Rehnberg
+Match remporté par Jain
+Jain  6 4 7 6
+Rehnberg  4 6 5 4
+Nombre de coups : 545
+Nombre d'échanges : 268
+Nombre de jeux : 42
+Nombre de sets : 4
+Doubles fautes : Jain 24 | Rehnberg 26
+
+1er tour Match 23
+
+Match opposant Farlie à Pals
+Match remporté par Pals
+Farlie  6 3 6 2 4
+Pals  3 6 4 6 6
+Nombre de coups : 543
+Nombre d'échanges : 296
+Nombre de jeux : 46
+Nombre de sets : 5
+Doubles fautes : Farlie 28 | Pals 27
+
+1er tour Match 24
+
+Match opposant Basilio à Deonne
+Match remporté par Deonne
+Basilio  4 6 1 7 1
+Deonne  6 4 6 5 6
+Nombre de coups : 672
+Nombre d'échanges : 316
+Nombre de jeux : 46
+Nombre de sets : 5
+Doubles fautes : Basilio 26 | Deonne 32
+
+1er tour Match 25
+
+Match opposant Fotina à Hansiain
+Match remporté par Fotina
+Fotina  6 6 2 6
+Hansiain  4 2 6 2
+Nombre de coups : 554
+Nombre d'échanges : 239
+Nombre de jeux : 34
+Nombre de sets : 4
+Doubles fautes : Fotina 20 | Hansiain 20
+
+1er tour Match 26
+
+Match opposant Beata à Sibley
+Match remporté par Sibley
+Beata  5 6 6 2 4
+Sibley  7 2 3 6 6
+Nombre de coups : 873
+Nombre d'échanges : 373
+Nombre de jeux : 47
+Nombre de sets : 5
+Doubles fautes : Beata 33 | Sibley 27
+
+1er tour Match 27
+
+Match opposant Chance à Lona
+Match remporté par Lona
+Chance  1 7 6 7 4
+Lona  6 5 7 5 6
+Nombre de coups : 732
+Nombre d'échanges : 360
+Nombre de jeux : 54
+Nombre de sets : 5
+Doubles fautes : Chance 30 | Lona 36
+
+1er tour Match 28
+
+Match opposant Season à Matthew
+Match remporté par Season
+Season  6 6 7
+Matthew  3 3 5
+Nombre de coups : 385
+Nombre d'échanges : 197
+Nombre de jeux : 30
+Nombre de sets : 3
+Doubles fautes : Season 16 | Matthew 25
+
+1er tour Match 29
+
+Match opposant Jakie à Ilarrold
+Match remporté par Ilarrold
+Jakie  2 2 6 7 6
+Ilarrold  6 6 3 6 7
+Nombre de coups : 761
+Nombre d'échanges : 369
+Nombre de jeux : 51
+Nombre de sets : 5
+Doubles fautes : Jakie 40 | Ilarrold 33
+
+1er tour Match 30
+
+Match opposant Clyte à Norty
+Match remporté par Norty
+Clyte  3 4 3
+Norty  6 6 6
+Nombre de coups : 401
+Nombre d'échanges : 186
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Clyte 26 | Norty 9
+
+1er tour Match 31
+
+Match opposant Myrah à Beverlie
+Match remporté par Myrah
+Myrah  6 5 7 7 6
+Beverlie  7 7 6 5 4
+Nombre de coups : 804
+Nombre d'échanges : 400
+Nombre de jeux : 60
+Nombre de sets : 5
+Doubles fautes : Myrah 39 | Beverlie 39
+
+1er tour Match 32
+
+Match opposant Piscatelli à Della
+Match remporté par Della
+Piscatelli  4 2 6
+Della  6 6 7
+Nombre de coups : 445
+Nombre d'échanges : 209
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Piscatelli 23 | Della 18
+
+1er tour Match 33
+
+Match opposant Clementine à Raymonds
+Match remporté par Clementine
+Clementine  7 6 4 3 6
+Raymonds  6 4 6 6 1
+Nombre de coups : 672
+Nombre d'échanges : 363
+Nombre de jeux : 49
+Nombre de sets : 5
+Doubles fautes : Clementine 21 | Raymonds 39
+
+1er tour Match 34
+
+Match opposant Ulphia à Averell
+Match remporté par Averell
+Ulphia  3 5 3
+Averell  6 7 6
+Nombre de coups : 426
+Nombre d'échanges : 201
+Nombre de jeux : 30
+Nombre de sets : 3
+Doubles fautes : Ulphia 18 | Averell 12
+
+1er tour Match 35
+
+Match opposant Miguel à Cy
+Match remporté par Miguel
+Miguel  6 7 6
+Cy  3 6 4
+Nombre de coups : 412
+Nombre d'échanges : 221
+Nombre de jeux : 32
+Nombre de sets : 3
+Doubles fautes : Miguel 20 | Cy 25
+
+1er tour Match 36
+
+Match opposant Layne à Rothmuller
+Match remporté par Rothmuller
+Layne  3 6 3 3
+Rothmuller  6 3 6 6
+Nombre de coups : 429
+Nombre d'échanges : 238
+Nombre de jeux : 36
+Nombre de sets : 4
+Doubles fautes : Layne 27 | Rothmuller 27
+
+1er tour Match 37
+
+Match opposant Tavie à Nette
+Match remporté par Tavie
+Tavie  6 6 6
+Nette  4 3 3
+Nombre de coups : 357
+Nombre d'échanges : 189
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Tavie 18 | Nette 20
+
+1er tour Match 38
+
+Match opposant Hunsinger à Flatto
+Match remporté par Hunsinger
+Hunsinger  6 6 4 6
+Flatto  4 0 6 2
+Nombre de coups : 428
+Nombre d'échanges : 232
+Nombre de jeux : 34
+Nombre de sets : 4
+Doubles fautes : Hunsinger 20 | Flatto 31
+
+1er tour Match 39
+
+Match opposant Ramona à Rockefeller
+Match remporté par Ramona
+Ramona  6 6 3 6
+Rockefeller  4 3 6 4
+Nombre de coups : 476
+Nombre d'échanges : 260
+Nombre de jeux : 38
+Nombre de sets : 4
+Doubles fautes : Ramona 29 | Rockefeller 30
+
+1er tour Match 40
+
+Match opposant Reidar à Reckford
+Match remporté par Reidar
+Reidar  6 6 6 6
+Reckford  2 4 7 3
+Nombre de coups : 546
+Nombre d'échanges : 285
+Nombre de jeux : 40
+Nombre de sets : 4
+Doubles fautes : Reidar 33 | Reckford 28
+
+1er tour Match 41
+
+Match opposant Ullund à Donatelli
+Match remporté par Ullund
+Ullund  6 6 6
+Donatelli  2 4 4
+Nombre de coups : 361
+Nombre d'échanges : 171
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Ullund 8 | Donatelli 24
+
+1er tour Match 42
+
+Match opposant Gerta à Munson
+Match remporté par Gerta
+Gerta  6 6 6
+Munson  3 2 4
+Nombre de coups : 368
+Nombre d'échanges : 190
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Gerta 14 | Munson 23
+
+1er tour Match 43
+
+Match opposant Bryn à George
+Match remporté par George
+Bryn  1 5 5
+George  6 7 7
+Nombre de coups : 452
+Nombre d'échanges : 209
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Bryn 24 | George 20
+
+1er tour Match 44
+
+Match opposant Chaim à Yup
+Match remporté par Yup
+Chaim  6 5 5 3
+Yup  2 7 7 6
+Nombre de coups : 622
+Nombre d'échanges : 300
+Nombre de jeux : 41
+Nombre de sets : 4
+Doubles fautes : Chaim 34 | Yup 25
+
+1er tour Match 45
+
+Match opposant Courtund à McGurn
+Match remporté par Courtund
+Courtund  6 6 6
+McGurn  1 2 3
+Nombre de coups : 315
+Nombre d'échanges : 136
+Nombre de jeux : 24
+Nombre de sets : 3
+Doubles fautes : Courtund 9 | McGurn 18
+
+1er tour Match 46
+
+Match opposant Mildred à Lisle
+Match remporté par Mildred
+Mildred  6 6 5 7
+Lisle  2 4 7 6
+Nombre de coups : 600
+Nombre d'échanges : 296
+Nombre de jeux : 43
+Nombre de sets : 4
+Doubles fautes : Mildred 21 | Lisle 35
+
+1er tour Match 47
+
+Match opposant Tewell à Libna
+Match remporté par Libna
+Tewell  4 1 6 4
+Libna  6 6 3 6
+Nombre de coups : 466
+Nombre d'échanges : 225
+Nombre de jeux : 36
+Nombre de sets : 4
+Doubles fautes : Tewell 24 | Libna 18
+
+1er tour Match 48
+
+Match opposant Watkins à Callahan
+Match remporté par Watkins
+Watkins  3 6 6 6
+Callahan  6 3 1 2
+Nombre de coups : 457
+Nombre d'échanges : 220
+Nombre de jeux : 33
+Nombre de sets : 4
+Doubles fautes : Watkins 15 | Callahan 23
+
+1er tour Match 49
+
+Match opposant Suzi à Latea
+Match remporté par Suzi
+Suzi  6 6 6 6
+Latea  7 3 1 4
+Nombre de coups : 568
+Nombre d'échanges : 273
+Nombre de jeux : 39
+Nombre de sets : 4
+Doubles fautes : Suzi 27 | Latea 33
+
+1er tour Match 50
+
+Match opposant Gussy à Palm
+Match remporté par Palm
+Gussy  4 6 6 3 2
+Palm  6 1 3 6 6
+Nombre de coups : 565
+Nombre d'échanges : 271
+Nombre de jeux : 43
+Nombre de sets : 5
+Doubles fautes : Gussy 21 | Palm 24
+
+1er tour Match 51
+
+Match opposant Raji à Sturrock
+Match remporté par Sturrock
+Raji  6 6 3 4
+Sturrock  4 7 6 6
+Nombre de coups : 613
+Nombre d'échanges : 285
+Nombre de jeux : 42
+Nombre de sets : 4
+Doubles fautes : Raji 29 | Sturrock 34
+
+1er tour Match 52
+
+Match opposant Dewayne à Virginia
+Match remporté par Virginia
+Dewayne  6 6 6 4
+Virginia  7 4 7 6
+Nombre de coups : 664
+Nombre d'échanges : 327
+Nombre de jeux : 46
+Nombre de sets : 4
+Doubles fautes : Dewayne 32 | Virginia 22
+
+1er tour Match 53
+
+Match opposant Lucy à Witte
+Match remporté par Lucy
+Lucy  5 7 5 6 6
+Witte  7 6 7 4 3
+Nombre de coups : 745
+Nombre d'échanges : 354
+Nombre de jeux : 56
+Nombre de sets : 5
+Doubles fautes : Lucy 32 | Witte 40
+
+1er tour Match 54
+
+Match opposant Drusy à Therese
+Match remporté par Drusy
+Drusy  7 4 6 7
+Therese  5 6 3 6
+Nombre de coups : 632
+Nombre d'échanges : 295
+Nombre de jeux : 44
+Nombre de sets : 4
+Doubles fautes : Drusy 32 | Therese 31
+
+1er tour Match 55
+
+Match opposant Seagraves à Steward
+Match remporté par Seagraves
+Seagraves  6 6 3 1 6
+Steward  3 4 6 6 4
+Nombre de coups : 664
+Nombre d'échanges : 309
+Nombre de jeux : 45
+Nombre de sets : 5
+Doubles fautes : Seagraves 27 | Steward 27
+
+1er tour Match 56
+
+Match opposant Caesar à Stew
+Match remporté par Stew
+Caesar  4 6 6 3
+Stew  6 2 7 6
+Nombre de coups : 567
+Nombre d'échanges : 287
+Nombre de jeux : 40
+Nombre de sets : 4
+Doubles fautes : Caesar 30 | Stew 34
+
+1er tour Match 57
+
+Match opposant Brianna à Sydney
+Match remporté par Brianna
+Brianna  6 6 5 4 6
+Sydney  4 2 7 6 1
+Nombre de coups : 629
+Nombre d'échanges : 327
+Nombre de jeux : 47
+Nombre de sets : 5
+Doubles fautes : Brianna 35 | Sydney 34
+
+1er tour Match 58
+
+Match opposant Sabec à Eiger
+Match remporté par Eiger
+Sabec  1 3 6 4
+Eiger  6 6 4 6
+Nombre de coups : 480
+Nombre d'échanges : 236
+Nombre de jeux : 36
+Nombre de sets : 4
+Doubles fautes : Sabec 30 | Eiger 18
+
+1er tour Match 59
+
+Match opposant Peters à Rudelson
+Match remporté par Peters
+Peters  4 6 6 3 6
+Rudelson  6 2 2 6 1
+Nombre de coups : 550
+Nombre d'échanges : 286
+Nombre de jeux : 42
+Nombre de sets : 5
+Doubles fautes : Peters 26 | Rudelson 35
+
+1er tour Match 60
+
+Match opposant Woolley à Sato
+Match remporté par Sato
+Woolley  4 7 7 4 3
+Sato  6 5 6 6 6
+Nombre de coups : 710
+Nombre d'échanges : 328
+Nombre de jeux : 54
+Nombre de sets : 5
+Doubles fautes : Woolley 39 | Sato 32
+
+1er tour Match 61
+
+Match opposant Israel à Dong
+Match remporté par Israel
+Israel  6 2 7 6
+Dong  4 6 6 3
+Nombre de coups : 513
+Nombre d'échanges : 263
+Nombre de jeux : 40
+Nombre de sets : 4
+Doubles fautes : Israel 21 | Dong 27
+
+1er tour Match 62
+
+Match opposant Fagan à Norton
+Match remporté par Fagan
+Fagan  1 4 7 7 6
+Norton  6 6 5 6 2
+Nombre de coups : 589
+Nombre d'échanges : 307
+Nombre de jeux : 50
+Nombre de sets : 5
+Doubles fautes : Fagan 31 | Norton 26
+
+1er tour Match 63
+
+Match opposant Lubbock à Litch
+Match remporté par Litch
+Lubbock  7 6 3 2 4
+Litch  5 2 6 6 6
+Nombre de coups : 582
+Nombre d'échanges : 315
+Nombre de jeux : 47
+Nombre de sets : 5
+Doubles fautes : Lubbock 44 | Litch 33
+
+1er tour Match 64
+
+Match opposant Evelunn à Boyden
+Match remporté par Evelunn
+Evelunn  6 7 6
+Boyden  4 6 4
+Nombre de coups : 495
+Nombre d'échanges : 251
+Nombre de jeux : 33
+Nombre de sets : 3
+Doubles fautes : Evelunn 23 | Boyden 27
+
+
+
+2eme tour
+
+2eme tour Match 1
+
+Match opposant Peer à Grega
+Match remporté par Peer
+Peer  6 7 2 6
+Grega  4 5 6 3
+Nombre de coups : 562
+Nombre d'échanges : 269
+Nombre de jeux : 39
+Nombre de sets : 4
+Doubles fautes : Peer 24 | Grega 27
+
+2eme tour Match 2
+
+Match opposant Delphina à Dorcus
+Match remporté par Dorcus
+Delphina  6 6 4
+Dorcus  7 7 6
+Nombre de coups : 529
+Nombre d'échanges : 253
+Nombre de jeux : 36
+Nombre de sets : 3
+Doubles fautes : Delphina 21 | Dorcus 31
+
+2eme tour Match 3
+
+Match opposant Earleen à Bastien
+Match remporté par Bastien
+Earleen  6 3 2 2
+Bastien  4 6 6 6
+Nombre de coups : 468
+Nombre d'échanges : 226
+Nombre de jeux : 35
+Nombre de sets : 4
+Doubles fautes : Earleen 20 | Bastien 21
+
+2eme tour Match 4
+
+Match opposant Etom à Cooperman
+Match remporté par Cooperman
+Etom  6 2 6 5 3
+Cooperman  4 6 3 7 6
+Nombre de coups : 600
+Nombre d'échanges : 349
+Nombre de jeux : 48
+Nombre de sets : 5
+Doubles fautes : Etom 41 | Cooperman 38
+
+2eme tour Match 5
+
+Match opposant Maeve à Ditmore
+Match remporté par Ditmore
+Maeve  5 4 6 6 4
+Ditmore  7 6 3 2 6
+Nombre de coups : 610
+Nombre d'échanges : 311
+Nombre de jeux : 49
+Nombre de sets : 5
+Doubles fautes : Maeve 28 | Ditmore 24
+
+2eme tour Match 6
+
+Match opposant Aisha à Wager
+Match remporté par Aisha
+Aisha  6 5 6 6
+Wager  3 7 4 4
+Nombre de coups : 552
+Nombre d'échanges : 278
+Nombre de jeux : 41
+Nombre de sets : 4
+Doubles fautes : Aisha 30 | Wager 26
+
+2eme tour Match 7
+
+Match opposant Mukerji à Riella
+Match remporté par Mukerji
+Mukerji  6 6 6
+Riella  3 3 3
+Nombre de coups : 331
+Nombre d'échanges : 176
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Mukerji 20 | Riella 19
+
+2eme tour Match 8
+
+Match opposant Marlon à Marder
+Match remporté par Marlon
+Marlon  7 6 6
+Marder  5 2 3
+Nombre de coups : 367
+Nombre d'échanges : 205
+Nombre de jeux : 29
+Nombre de sets : 3
+Doubles fautes : Marlon 19 | Marder 28
+
+2eme tour Match 9
+
+Match opposant Vanya à Whitman
+Match remporté par Whitman
+Vanya  4 2 2
+Whitman  6 6 6
+Nombre de coups : 376
+Nombre d'échanges : 182
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Vanya 18 | Whitman 16
+
+2eme tour Match 10
+
+Match opposant Boff à Lucy
+Match remporté par Lucy
+Boff  3 5 6 3
+Lucy  6 7 2 6
+Nombre de coups : 476
+Nombre d'échanges : 254
+Nombre de jeux : 38
+Nombre de sets : 4
+Doubles fautes : Boff 25 | Lucy 25
+
+2eme tour Match 11
+
+Match opposant Hallagan à Jain
+Match remporté par Jain
+Hallagan  3 7 3 6 6
+Jain  6 5 6 2 7
+Nombre de coups : 797
+Nombre d'échanges : 399
+Nombre de jeux : 51
+Nombre de sets : 5
+Doubles fautes : Hallagan 48 | Jain 30
+
+2eme tour Match 12
+
+Match opposant Pals à Deonne
+Match remporté par Deonne
+Pals  3 6 4 4
+Deonne  6 3 6 6
+Nombre de coups : 501
+Nombre d'échanges : 244
+Nombre de jeux : 38
+Nombre de sets : 4
+Doubles fautes : Pals 22 | Deonne 25
+
+2eme tour Match 13
+
+Match opposant Fotina à Sibley
+Match remporté par Fotina
+Fotina  6 6 6
+Sibley  3 4 4
+Nombre de coups : 435
+Nombre d'échanges : 205
+Nombre de jeux : 29
+Nombre de sets : 3
+Doubles fautes : Fotina 24 | Sibley 19
+
+2eme tour Match 14
+
+Match opposant Lona à Season
+Match remporté par Lona
+Lona  6 6 6
+Season  4 2 1
+Nombre de coups : 380
+Nombre d'échanges : 188
+Nombre de jeux : 25
+Nombre de sets : 3
+Doubles fautes : Lona 16 | Season 23
+
+2eme tour Match 15
+
+Match opposant Ilarrold à Norty
+Match remporté par Ilarrold
+Ilarrold  6 7 2 6
+Norty  4 6 6 3
+Nombre de coups : 557
+Nombre d'échanges : 264
+Nombre de jeux : 40
+Nombre de sets : 4
+Doubles fautes : Ilarrold 28 | Norty 24
+
+2eme tour Match 16
+
+Match opposant Myrah à Della
+Match remporté par Della
+Myrah  6 5 6 3
+Della  7 7 3 6
+Nombre de coups : 677
+Nombre d'échanges : 344
+Nombre de jeux : 43
+Nombre de sets : 4
+Doubles fautes : Myrah 39 | Della 28
+
+2eme tour Match 17
+
+Match opposant Clementine à Averell
+Match remporté par Averell
+Clementine  5 5 6
+Averell  7 7 7
+Nombre de coups : 496
+Nombre d'échanges : 248
+Nombre de jeux : 37
+Nombre de sets : 3
+Doubles fautes : Clementine 27 | Averell 25
+
+2eme tour Match 18
+
+Match opposant Miguel à Rothmuller
+Match remporté par Miguel
+Miguel  7 6 6
+Rothmuller  6 2 4
+Nombre de coups : 416
+Nombre d'échanges : 210
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Miguel 18 | Rothmuller 26
+
+2eme tour Match 19
+
+Match opposant Tavie à Hunsinger
+Match remporté par Hunsinger
+Tavie  2 5 6 6
+Hunsinger  6 7 1 7
+Nombre de coups : 565
+Nombre d'échanges : 280
+Nombre de jeux : 40
+Nombre de sets : 4
+Doubles fautes : Tavie 34 | Hunsinger 28
+
+2eme tour Match 20
+
+Match opposant Ramona à Reidar
+Match remporté par Ramona
+Ramona  6 6 6
+Reidar  0 1 4
+Nombre de coups : 283
+Nombre d'échanges : 137
+Nombre de jeux : 23
+Nombre de sets : 3
+Doubles fautes : Ramona 11 | Reidar 14
+
+2eme tour Match 21
+
+Match opposant Ullund à Gerta
+Match remporté par Gerta
+Ullund  7 3 3 3
+Gerta  5 6 6 6
+Nombre de coups : 522
+Nombre d'échanges : 256
+Nombre de jeux : 39
+Nombre de sets : 4
+Doubles fautes : Ullund 29 | Gerta 22
+
+2eme tour Match 22
+
+Match opposant George à Yup
+Match remporté par George
+George  6 6 6
+Yup  4 3 3
+Nombre de coups : 345
+Nombre d'échanges : 181
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : George 16 | Yup 23
+
+2eme tour Match 23
+
+Match opposant Courtund à Mildred
+Match remporté par Mildred
+Courtund  6 6 4 6 0
+Mildred  1 7 6 4 6
+Nombre de coups : 699
+Nombre d'échanges : 323
+Nombre de jeux : 46
+Nombre de sets : 5
+Doubles fautes : Courtund 25 | Mildred 31
+
+2eme tour Match 24
+
+Match opposant Libna à Watkins
+Match remporté par Libna
+Libna  6 6 7
+Watkins  2 3 6
+Nombre de coups : 421
+Nombre d'échanges : 211
+Nombre de jeux : 30
+Nombre de sets : 3
+Doubles fautes : Libna 25 | Watkins 22
+
+2eme tour Match 25
+
+Match opposant Suzi à Palm
+Match remporté par Suzi
+Suzi  6 7 4 7 6
+Palm  7 6 6 5 3
+Nombre de coups : 826
+Nombre d'échanges : 385
+Nombre de jeux : 57
+Nombre de sets : 5
+Doubles fautes : Suzi 35 | Palm 42
+
+2eme tour Match 26
+
+Match opposant Sturrock à Virginia
+Match remporté par Virginia
+Sturrock  3 6 2
+Virginia  6 7 6
+Nombre de coups : 472
+Nombre d'échanges : 230
+Nombre de jeux : 30
+Nombre de sets : 3
+Doubles fautes : Sturrock 25 | Virginia 17
+
+2eme tour Match 27
+
+Match opposant Lucy à Drusy
+Match remporté par Drusy
+Lucy  3 3 2
+Drusy  6 6 6
+Nombre de coups : 350
+Nombre d'échanges : 154
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Lucy 20 | Drusy 7
+
+2eme tour Match 28
+
+Match opposant Seagraves à Stew
+Match remporté par Stew
+Seagraves  2 3 4
+Stew  6 6 6
+Nombre de coups : 409
+Nombre d'échanges : 173
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Seagraves 16 | Stew 14
+
+2eme tour Match 29
+
+Match opposant Brianna à Eiger
+Match remporté par Brianna
+Brianna  4 6 6 6 7
+Eiger  6 4 4 7 6
+Nombre de coups : 704
+Nombre d'échanges : 376
+Nombre de jeux : 56
+Nombre de sets : 5
+Doubles fautes : Brianna 34 | Eiger 55
+
+2eme tour Match 30
+
+Match opposant Peters à Sato
+Match remporté par Peters
+Peters  6 3 2 6 6
+Sato  3 6 6 4 2
+Nombre de coups : 540
+Nombre d'échanges : 304
+Nombre de jeux : 44
+Nombre de sets : 5
+Doubles fautes : Peters 35 | Sato 30
+
+2eme tour Match 31
+
+Match opposant Israel à Fagan
+Match remporté par Israel
+Israel  5 4 6 6 6
+Fagan  7 6 3 4 3
+Nombre de coups : 810
+Nombre d'échanges : 373
+Nombre de jeux : 50
+Nombre de sets : 5
+Doubles fautes : Israel 32 | Fagan 37
+
+2eme tour Match 32
+
+Match opposant Litch à Evelunn
+Match remporté par Litch
+Litch  4 6 2 6 7
+Evelunn  6 4 6 4 6
+Nombre de coups : 655
+Nombre d'échanges : 333
+Nombre de jeux : 51
+Nombre de sets : 5
+Doubles fautes : Litch 28 | Evelunn 30
+
+
+
+3eme tour
+
+3eme tour Match 1
+
+Match opposant Peer à Dorcus
+Match remporté par Peer
+Peer  6 6 2 7
+Dorcus  3 3 6 5
+Nombre de coups : 477
+Nombre d'échanges : 248
+Nombre de jeux : 38
+Nombre de sets : 4
+Doubles fautes : Peer 14 | Dorcus 34
+
+3eme tour Match 2
+
+Match opposant Bastien à Cooperman
+Match remporté par Cooperman
+Bastien  4 6 4
+Cooperman  6 7 6
+Nombre de coups : 425
+Nombre d'échanges : 215
+Nombre de jeux : 33
+Nombre de sets : 3
+Doubles fautes : Bastien 16 | Cooperman 24
+
+3eme tour Match 3
+
+Match opposant Ditmore à Aisha
+Match remporté par Aisha
+Ditmore  4 2 5
+Aisha  6 6 7
+Nombre de coups : 365
+Nombre d'échanges : 182
+Nombre de jeux : 30
+Nombre de sets : 3
+Doubles fautes : Ditmore 21 | Aisha 16
+
+3eme tour Match 4
+
+Match opposant Mukerji à Marlon
+Match remporté par Marlon
+Mukerji  2 4 6 6 3
+Marlon  6 6 1 3 6
+Nombre de coups : 615
+Nombre d'échanges : 331
+Nombre de jeux : 43
+Nombre de sets : 5
+Doubles fautes : Mukerji 35 | Marlon 34
+
+3eme tour Match 5
+
+Match opposant Whitman à Lucy
+Match remporté par Lucy
+Whitman  6 6 6 6
+Lucy  7 3 7 7
+Nombre de coups : 692
+Nombre d'échanges : 372
+Nombre de jeux : 48
+Nombre de sets : 4
+Doubles fautes : Whitman 42 | Lucy 39
+
+3eme tour Match 6
+
+Match opposant Jain à Deonne
+Match remporté par Deonne
+Jain  6 5 5 6 2
+Deonne  4 7 7 4 6
+Nombre de coups : 683
+Nombre d'échanges : 369
+Nombre de jeux : 52
+Nombre de sets : 5
+Doubles fautes : Jain 41 | Deonne 27
+
+3eme tour Match 7
+
+Match opposant Fotina à Lona
+Match remporté par Fotina
+Fotina  6 6 6
+Lona  4 2 2
+Nombre de coups : 342
+Nombre d'échanges : 165
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Fotina 13 | Lona 19
+
+3eme tour Match 8
+
+Match opposant Ilarrold à Della
+Match remporté par Ilarrold
+Ilarrold  6 6 6
+Della  3 2 4
+Nombre de coups : 440
+Nombre d'échanges : 226
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Ilarrold 19 | Della 28
+
+3eme tour Match 9
+
+Match opposant Averell à Miguel
+Match remporté par Miguel
+Averell  2 5 5
+Miguel  6 7 7
+Nombre de coups : 399
+Nombre d'échanges : 223
+Nombre de jeux : 32
+Nombre de sets : 3
+Doubles fautes : Averell 30 | Miguel 20
+
+3eme tour Match 10
+
+Match opposant Hunsinger à Ramona
+Match remporté par Ramona
+Hunsinger  1 4 6 2
+Ramona  6 6 4 6
+Nombre de coups : 450
+Nombre d'échanges : 232
+Nombre de jeux : 35
+Nombre de sets : 4
+Doubles fautes : Hunsinger 29 | Ramona 20
+
+3eme tour Match 11
+
+Match opposant Gerta à George
+Match remporté par George
+Gerta  2 6 3
+George  6 7 6
+Nombre de coups : 351
+Nombre d'échanges : 214
+Nombre de jeux : 30
+Nombre de sets : 3
+Doubles fautes : Gerta 30 | George 26
+
+3eme tour Match 12
+
+Match opposant Mildred à Libna
+Match remporté par Mildred
+Mildred  7 7 3 7
+Libna  6 6 6 6
+Nombre de coups : 649
+Nombre d'échanges : 344
+Nombre de jeux : 48
+Nombre de sets : 4
+Doubles fautes : Mildred 26 | Libna 40
+
+3eme tour Match 13
+
+Match opposant Suzi à Virginia
+Match remporté par Virginia
+Suzi  4 5 6 5
+Virginia  6 7 2 7
+Nombre de coups : 535
+Nombre d'échanges : 267
+Nombre de jeux : 42
+Nombre de sets : 4
+Doubles fautes : Suzi 31 | Virginia 33
+
+3eme tour Match 14
+
+Match opposant Drusy à Stew
+Match remporté par Stew
+Drusy  6 2 5
+Stew  7 6 7
+Nombre de coups : 417
+Nombre d'échanges : 218
+Nombre de jeux : 33
+Nombre de sets : 3
+Doubles fautes : Drusy 21 | Stew 16
+
+3eme tour Match 15
+
+Match opposant Brianna à Peters
+Match remporté par Brianna
+Brianna  1 6 6 4 7
+Peters  6 1 4 6 5
+Nombre de coups : 625
+Nombre d'échanges : 314
+Nombre de jeux : 46
+Nombre de sets : 5
+Doubles fautes : Brianna 32 | Peters 26
+
+3eme tour Match 16
+
+Match opposant Israel à Litch
+Match remporté par Litch
+Israel  6 7 6 3 0
+Litch  7 5 4 6 6
+Nombre de coups : 638
+Nombre d'échanges : 329
+Nombre de jeux : 50
+Nombre de sets : 5
+Doubles fautes : Israel 34 | Litch 29
+
+
+
+Huitièmes de finale
+
+Huitièmes de finale Match 1
+
+Match opposant Peer à Cooperman
+Match remporté par Peer
+Peer  6 6 6 6
+Cooperman  2 7 4 3
+Nombre de coups : 476
+Nombre d'échanges : 244
+Nombre de jeux : 40
+Nombre de sets : 4
+Doubles fautes : Peer 21 | Cooperman 24
+
+Huitièmes de finale Match 2
+
+Match opposant Aisha à Marlon
+Match remporté par Marlon
+Aisha  1 6 6 1 4
+Marlon  6 2 2 6 6
+Nombre de coups : 573
+Nombre d'échanges : 276
+Nombre de jeux : 40
+Nombre de sets : 5
+Doubles fautes : Aisha 27 | Marlon 27
+
+Huitièmes de finale Match 3
+
+Match opposant Lucy à Deonne
+Match remporté par Lucy
+Lucy  3 6 6 3 6
+Deonne  6 3 2 6 3
+Nombre de coups : 582
+Nombre d'échanges : 270
+Nombre de jeux : 44
+Nombre de sets : 5
+Doubles fautes : Lucy 17 | Deonne 29
+
+Huitièmes de finale Match 4
+
+Match opposant Fotina à Ilarrold
+Match remporté par Fotina
+Fotina  6 6 4 2 6
+Ilarrold  4 1 6 6 4
+Nombre de coups : 564
+Nombre d'échanges : 293
+Nombre de jeux : 45
+Nombre de sets : 5
+Doubles fautes : Fotina 33 | Ilarrold 24
+
+Huitièmes de finale Match 5
+
+Match opposant Miguel à Ramona
+Match remporté par Miguel
+Miguel  6 6 3 6
+Ramona  1 4 6 2
+Nombre de coups : 396
+Nombre d'échanges : 211
+Nombre de jeux : 34
+Nombre de sets : 4
+Doubles fautes : Miguel 21 | Ramona 19
+
+Huitièmes de finale Match 6
+
+Match opposant George à Mildred
+Match remporté par George
+George  7 2 6 4 6
+Mildred  5 6 4 6 3
+Nombre de coups : 594
+Nombre d'échanges : 308
+Nombre de jeux : 49
+Nombre de sets : 5
+Doubles fautes : George 38 | Mildred 32
+
+Huitièmes de finale Match 7
+
+Match opposant Virginia à Stew
+Match remporté par Stew
+Virginia  2 6 5 2
+Stew  6 1 7 6
+Nombre de coups : 517
+Nombre d'échanges : 260
+Nombre de jeux : 35
+Nombre de sets : 4
+Doubles fautes : Virginia 23 | Stew 26
+
+Huitièmes de finale Match 8
+
+Match opposant Brianna à Litch
+Match remporté par Brianna
+Brianna  7 2 6 6
+Litch  6 6 3 2
+Nombre de coups : 541
+Nombre d'échanges : 265
+Nombre de jeux : 38
+Nombre de sets : 4
+Doubles fautes : Brianna 23 | Litch 26
+
+
+
+Quarts de finale
+
+Quarts de finale Match 1
+
+Match opposant Peer à Marlon
+Match remporté par Marlon
+Peer  6 5 6 6
+Marlon  7 7 3 7
+Nombre de coups : 737
+Nombre d'échanges : 328
+Nombre de jeux : 47
+Nombre de sets : 4
+Doubles fautes : Peer 38 | Marlon 26
+
+Quarts de finale Match 2
+
+Match opposant Lucy à Fotina
+Match remporté par Lucy
+Lucy  2 6 4 7 6
+Fotina  6 4 6 5 3
+Nombre de coups : 645
+Nombre d'échanges : 330
+Nombre de jeux : 49
+Nombre de sets : 5
+Doubles fautes : Lucy 28 | Fotina 26
+
+Quarts de finale Match 3
+
+Match opposant Miguel à George
+Match remporté par George
+Miguel  6 1 6 5
+George  7 6 2 7
+Nombre de coups : 618
+Nombre d'échanges : 291
+Nombre de jeux : 40
+Nombre de sets : 4
+Doubles fautes : Miguel 18 | George 26
+
+Quarts de finale Match 4
+
+Match opposant Stew à Brianna
+Match remporté par Brianna
+Stew  6 0 3
+Brianna  7 6 6
+Nombre de coups : 364
+Nombre d'échanges : 185
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Stew 23 | Brianna 16
+
+
+
+Demi finale
+
+Demi finale Match 1
+
+Match opposant Marlon à Lucy
+Match remporté par Lucy
+Marlon  6 6 2 6 2
+Lucy  7 2 6 4 6
+Nombre de coups : 638
+Nombre d'échanges : 320
+Nombre de jeux : 47
+Nombre de sets : 5
+Doubles fautes : Marlon 31 | Lucy 26
+
+Demi finale Match 2
+
+Match opposant George à Brianna
+Match remporté par Brianna
+George  6 4 4 4
+Brianna  4 6 6 6
+Nombre de coups : 470
+Nombre d'échanges : 251
+Nombre de jeux : 40
+Nombre de sets : 4
+Doubles fautes : George 29 | Brianna 18
+
+
+
+Finale
+
+Finale Match 1
+
+Match opposant Lucy à Brianna
+Match remporté par Brianna
+Lucy  3 4 6 2
+Brianna  6 6 4 6
+Nombre de coups : 508
+Nombre d'échanges : 242
+Nombre de jeux : 37
+Nombre de sets : 4
+Doubles fautes : Lucy 29 | Brianna 16
+
+
+
+
+
+Catégorie Femme Simple
+1er tour
+
+1er tour Match 1
+
+Match opposant Rosalyn à Dorcia
+Match remporté par Dorcia
+Rosalyn  1 4
+Dorcia  6 6
+Nombre de coups : 237
+Nombre d'échanges : 107
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Rosalyn 7 | Dorcia 6
+
+1er tour Match 2
+
+Match opposant Swan à Baruch
+Match remporté par Baruch
+Swan  6 4 1
+Baruch  2 6 6
+Nombre de coups : 368
+Nombre d'échanges : 179
+Nombre de jeux : 25
+Nombre de sets : 3
+Doubles fautes : Swan 22 | Baruch 17
+
+1er tour Match 3
+
+Match opposant Bartholomeo à Blainey
+Match remporté par Blainey
+Bartholomeo  2 2
+Blainey  6 6
+Nombre de coups : 238
+Nombre d'échanges : 106
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Bartholomeo 6 | Blainey 8
+
+1er tour Match 4
+
+Match opposant Bary à Fenn
+Match remporté par Bary
+Bary  3 6 6
+Fenn  6 2 2
+Nombre de coups : 332
+Nombre d'échanges : 179
+Nombre de jeux : 25
+Nombre de sets : 3
+Doubles fautes : Bary 18 | Fenn 21
+
+1er tour Match 5
+
+Match opposant Trix à Reeves
+Match remporté par Reeves
+Trix  3 6 3
+Reeves  6 3 6
+Nombre de coups : 311
+Nombre d'échanges : 167
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Trix 20 | Reeves 22
+
+1er tour Match 6
+
+Match opposant Hennahane à Waldman
+Match remporté par Waldman
+Hennahane  5 6 4
+Waldman  7 4 6
+Nombre de coups : 449
+Nombre d'échanges : 221
+Nombre de jeux : 32
+Nombre de sets : 3
+Doubles fautes : Hennahane 20 | Waldman 22
+
+1er tour Match 7
+
+Match opposant Katharina à Sikorski
+Match remporté par Sikorski
+Katharina  4 0
+Sikorski  6 6
+Nombre de coups : 233
+Nombre d'échanges : 127
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Katharina 15 | Sikorski 14
+
+1er tour Match 8
+
+Match opposant Kelsy à Dripps
+Match remporté par Kelsy
+Kelsy  6 6
+Dripps  1 0
+Nombre de coups : 149
+Nombre d'échanges : 79
+Nombre de jeux : 13
+Nombre de sets : 2
+Doubles fautes : Kelsy 6 | Dripps 15
+
+1er tour Match 9
+
+Match opposant Suelo à Mommy
+Match remporté par Suelo
+Suelo  7 6
+Mommy  5 3
+Nombre de coups : 251
+Nombre d'échanges : 140
+Nombre de jeux : 21
+Nombre de sets : 2
+Doubles fautes : Suelo 16 | Mommy 16
+
+1er tour Match 10
+
+Match opposant Forest à Rafe
+Match remporté par Forest
+Forest  6 6
+Rafe  1 3
+Nombre de coups : 250
+Nombre d'échanges : 130
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Forest 13 | Rafe 16
+
+1er tour Match 11
+
+Match opposant Vernita à Nealey
+Match remporté par Nealey
+Vernita  3 7 6
+Nealey  6 6 7
+Nombre de coups : 448
+Nombre d'échanges : 236
+Nombre de jeux : 35
+Nombre de sets : 3
+Doubles fautes : Vernita 19 | Nealey 22
+
+1er tour Match 12
+
+Match opposant Hovey à Reitman
+Match remporté par Hovey
+Hovey  4 6 7
+Reitman  6 3 5
+Nombre de coups : 365
+Nombre d'échanges : 202
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Hovey 22 | Reitman 20
+
+1er tour Match 13
+
+Match opposant Harrell à Ribble
+Match remporté par Ribble
+Harrell  4 5
+Ribble  6 7
+Nombre de coups : 355
+Nombre d'échanges : 161
+Nombre de jeux : 22
+Nombre de sets : 2
+Doubles fautes : Harrell 18 | Ribble 8
+
+1er tour Match 14
+
+Match opposant Polly à Betthezul
+Match remporté par Betthezul
+Polly  2 2
+Betthezul  6 6
+Nombre de coups : 212
+Nombre d'échanges : 104
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Polly 11 | Betthezul 9
+
+1er tour Match 15
+
+Match opposant Orvie à Malinda
+Match remporté par Orvie
+Orvie  6 5 6
+Malinda  3 7 4
+Nombre de coups : 403
+Nombre d'échanges : 205
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Orvie 17 | Malinda 17
+
+1er tour Match 16
+
+Match opposant Kaliski à Heti
+Match remporté par Kaliski
+Kaliski  6 6
+Heti  4 3
+Nombre de coups : 294
+Nombre d'échanges : 148
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Kaliski 9 | Heti 19
+
+1er tour Match 17
+
+Match opposant Bradford à Shanta
+Match remporté par Bradford
+Bradford  6 6 7
+Shanta  7 3 5
+Nombre de coups : 465
+Nombre d'échanges : 218
+Nombre de jeux : 34
+Nombre de sets : 3
+Doubles fautes : Bradford 21 | Shanta 16
+
+1er tour Match 18
+
+Match opposant Berton à Lippold
+Match remporté par Berton
+Berton  6 6
+Lippold  3 2
+Nombre de coups : 250
+Nombre d'échanges : 119
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Berton 7 | Lippold 14
+
+1er tour Match 19
+
+Match opposant Airlee à Berhley
+Match remporté par Airlee
+Airlee  7 6
+Berhley  5 4
+Nombre de coups : 309
+Nombre d'échanges : 130
+Nombre de jeux : 22
+Nombre de sets : 2
+Doubles fautes : Airlee 12 | Berhley 11
+
+1er tour Match 20
+
+Match opposant Traweek à Natica
+Match remporté par Natica
+Traweek  6 2 4
+Natica  1 6 6
+Nombre de coups : 312
+Nombre d'échanges : 180
+Nombre de jeux : 25
+Nombre de sets : 3
+Doubles fautes : Traweek 19 | Natica 20
+
+1er tour Match 21
+
+Match opposant Antoinetta à Gio
+Match remporté par Antoinetta
+Antoinetta  7 6
+Gio  6 4
+Nombre de coups : 258
+Nombre d'échanges : 138
+Nombre de jeux : 23
+Nombre de sets : 2
+Doubles fautes : Antoinetta 12 | Gio 15
+
+1er tour Match 22
+
+Match opposant Bonnibelle à Tana
+Match remporté par Bonnibelle
+Bonnibelle  6 7
+Tana  1 6
+Nombre de coups : 331
+Nombre d'échanges : 159
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Bonnibelle 11 | Tana 17
+
+1er tour Match 23
+
+Match opposant Husain à Gaile
+Match remporté par Husain
+Husain  7 1 6
+Gaile  5 6 3
+Nombre de coups : 401
+Nombre d'échanges : 217
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Husain 21 | Gaile 24
+
+1er tour Match 24
+
+Match opposant Parker à Cybil
+Match remporté par Parker
+Parker  6 6
+Cybil  3 2
+Nombre de coups : 219
+Nombre d'échanges : 105
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Parker 8 | Cybil 9
+
+1er tour Match 25
+
+Match opposant Vickey à Pamella
+Match remporté par Pamella
+Vickey  6 1
+Pamella  7 6
+Nombre de coups : 263
+Nombre d'échanges : 118
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Vickey 17 | Pamella 7
+
+1er tour Match 26
+
+Match opposant Trainer à Tessi
+Match remporté par Trainer
+Trainer  4 6 6
+Tessi  6 3 2
+Nombre de coups : 368
+Nombre d'échanges : 183
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Trainer 14 | Tessi 20
+
+1er tour Match 27
+
+Match opposant Gusty à Phelgen
+Match remporté par Phelgen
+Gusty  0 6 5
+Phelgen  6 4 7
+Nombre de coups : 391
+Nombre d'échanges : 211
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Gusty 23 | Phelgen 18
+
+1er tour Match 28
+
+Match opposant Paddie à Floridia
+Match remporté par Paddie
+Paddie  7 6
+Floridia  5 3
+Nombre de coups : 279
+Nombre d'échanges : 142
+Nombre de jeux : 21
+Nombre de sets : 2
+Doubles fautes : Paddie 12 | Floridia 12
+
+1er tour Match 29
+
+Match opposant Pournaras à Dressel
+Match remporté par Pournaras
+Pournaras  3 6 6
+Dressel  6 2 3
+Nombre de coups : 382
+Nombre d'échanges : 175
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Pournaras 19 | Dressel 14
+
+1er tour Match 30
+
+Match opposant Tonkin à Raouf
+Match remporté par Tonkin
+Tonkin  6 6
+Raouf  1 4
+Nombre de coups : 241
+Nombre d'échanges : 112
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Tonkin 10 | Raouf 12
+
+1er tour Match 31
+
+Match opposant Klemens à Jauch
+Match remporté par Jauch
+Klemens  3 4
+Jauch  6 6
+Nombre de coups : 216
+Nombre d'échanges : 118
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Klemens 17 | Jauch 11
+
+1er tour Match 32
+
+Match opposant Ensign à Zeiger
+Match remporté par Zeiger
+Ensign  3 6 3
+Zeiger  6 2 6
+Nombre de coups : 356
+Nombre d'échanges : 170
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Ensign 18 | Zeiger 11
+
+1er tour Match 33
+
+Match opposant Calvina à Joacimah
+Match remporté par Calvina
+Calvina  7 3 6
+Joacimah  5 6 4
+Nombre de coups : 402
+Nombre d'échanges : 218
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Calvina 25 | Joacimah 28
+
+1er tour Match 34
+
+Match opposant Jovia à Samuella
+Match remporté par Samuella
+Jovia  6 4
+Samuella  7 6
+Nombre de coups : 317
+Nombre d'échanges : 152
+Nombre de jeux : 23
+Nombre de sets : 2
+Doubles fautes : Jovia 16 | Samuella 18
+
+1er tour Match 35
+
+Match opposant Steward à Appel
+Match remporté par Steward
+Steward  6 6
+Appel  2 2
+Nombre de coups : 224
+Nombre d'échanges : 112
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Steward 14 | Appel 12
+
+1er tour Match 36
+
+Match opposant Weisberg à Clementius
+Match remporté par Weisberg
+Weisberg  6 3 6
+Clementius  2 6 3
+Nombre de coups : 408
+Nombre d'échanges : 191
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Weisberg 20 | Clementius 25
+
+1er tour Match 37
+
+Match opposant Bridie à Annaliese
+Match remporté par Annaliese
+Bridie  3 2
+Annaliese  6 6
+Nombre de coups : 252
+Nombre d'échanges : 124
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Bridie 15 | Annaliese 6
+
+1er tour Match 38
+
+Match opposant Sapphera à Oletta
+Match remporté par Sapphera
+Sapphera  6 3 6
+Oletta  4 6 3
+Nombre de coups : 347
+Nombre d'échanges : 192
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Sapphera 17 | Oletta 18
+
+1er tour Match 39
+
+Match opposant Hurless à Sheilah
+Match remporté par Sheilah
+Hurless  6 3 5
+Sheilah  3 6 7
+Nombre de coups : 398
+Nombre d'échanges : 196
+Nombre de jeux : 30
+Nombre de sets : 3
+Doubles fautes : Hurless 16 | Sheilah 16
+
+1er tour Match 40
+
+Match opposant Mandelbaum à Kippar
+Match remporté par Mandelbaum
+Mandelbaum  7 6
+Kippar  6 4
+Nombre de coups : 422
+Nombre d'échanges : 164
+Nombre de jeux : 23
+Nombre de sets : 2
+Doubles fautes : Mandelbaum 16 | Kippar 8
+
+1er tour Match 41
+
+Match opposant Hollingsworth à Pearla
+Match remporté par Hollingsworth
+Hollingsworth  7 7
+Pearla  5 6
+Nombre de coups : 371
+Nombre d'échanges : 156
+Nombre de jeux : 25
+Nombre de sets : 2
+Doubles fautes : Hollingsworth 10 | Pearla 20
+
+1er tour Match 42
+
+Match opposant Tawnya à Teresa
+Match remporté par Tawnya
+Tawnya  6 2 6
+Teresa  3 6 2
+Nombre de coups : 311
+Nombre d'échanges : 162
+Nombre de jeux : 25
+Nombre de sets : 3
+Doubles fautes : Tawnya 12 | Teresa 20
+
+1er tour Match 43
+
+Match opposant Floris à Dani
+Match remporté par Dani
+Floris  4 2
+Dani  6 6
+Nombre de coups : 198
+Nombre d'échanges : 118
+Nombre de jeux : 18
+Nombre de sets : 2
+Doubles fautes : Floris 12 | Dani 10
+
+1er tour Match 44
+
+Match opposant Seedman à Onder
+Match remporté par Seedman
+Seedman  6 6
+Onder  4 3
+Nombre de coups : 318
+Nombre d'échanges : 166
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Seedman 11 | Onder 28
+
+1er tour Match 45
+
+Match opposant Farlee à Farrel
+Match remporté par Farlee
+Farlee  6 5 6
+Farrel  3 7 4
+Nombre de coups : 339
+Nombre d'échanges : 203
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Farlee 20 | Farrel 31
+
+1er tour Match 46
+
+Match opposant Fanchon à Chessy
+Match remporté par Fanchon
+Fanchon  6 4 6
+Chessy  3 6 1
+Nombre de coups : 354
+Nombre d'échanges : 177
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Fanchon 21 | Chessy 20
+
+1er tour Match 47
+
+Match opposant Gino à Lisan
+Match remporté par Gino
+Gino  7 6
+Lisan  6 2
+Nombre de coups : 321
+Nombre d'échanges : 154
+Nombre de jeux : 21
+Nombre de sets : 2
+Doubles fautes : Gino 17 | Lisan 13
+
+1er tour Match 48
+
+Match opposant Gonick à Magill
+Match remporté par Magill
+Gonick  4 3
+Magill  6 6
+Nombre de coups : 260
+Nombre d'échanges : 128
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Gonick 9 | Magill 19
+
+1er tour Match 49
+
+Match opposant Zedekiah à Latricia
+Match remporté par Latricia
+Zedekiah  5 2
+Latricia  7 6
+Nombre de coups : 292
+Nombre d'échanges : 148
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Zedekiah 11 | Latricia 12
+
+1er tour Match 50
+
+Match opposant Gwenette à Vernen
+Match remporté par Gwenette
+Gwenette  6 6
+Vernen  4 0
+Nombre de coups : 168
+Nombre d'échanges : 91
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Gwenette 6 | Vernen 15
+
+1er tour Match 51
+
+Match opposant Bartlett à Fryd
+Match remporté par Bartlett
+Bartlett  6 7 6
+Fryd  7 6 4
+Nombre de coups : 468
+Nombre d'échanges : 256
+Nombre de jeux : 36
+Nombre de sets : 3
+Doubles fautes : Bartlett 28 | Fryd 27
+
+1er tour Match 52
+
+Match opposant Chak à Charil
+Match remporté par Charil
+Chak  3 7 5
+Charil  6 5 7
+Nombre de coups : 406
+Nombre d'échanges : 222
+Nombre de jeux : 33
+Nombre de sets : 3
+Doubles fautes : Chak 28 | Charil 27
+
+1er tour Match 53
+
+Match opposant Niall à Volotta
+Match remporté par Niall
+Niall  6 2 6
+Volotta  2 6 4
+Nombre de coups : 386
+Nombre d'échanges : 177
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Niall 15 | Volotta 16
+
+1er tour Match 54
+
+Match opposant Ginzburg à Kubiak
+Match remporté par Kubiak
+Ginzburg  4 4
+Kubiak  6 6
+Nombre de coups : 322
+Nombre d'échanges : 160
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Ginzburg 16 | Kubiak 14
+
+1er tour Match 55
+
+Match opposant Ashleigh à Schram
+Match remporté par Schram
+Ashleigh  4 2
+Schram  6 6
+Nombre de coups : 285
+Nombre d'échanges : 130
+Nombre de jeux : 18
+Nombre de sets : 2
+Doubles fautes : Ashleigh 9 | Schram 9
+
+1er tour Match 56
+
+Match opposant Vezza à Omari
+Match remporté par Omari
+Vezza  7 3 1
+Omari  6 6 6
+Nombre de coups : 366
+Nombre d'échanges : 189
+Nombre de jeux : 29
+Nombre de sets : 3
+Doubles fautes : Vezza 26 | Omari 11
+
+1er tour Match 57
+
+Match opposant Ambrosius à Ubald
+Match remporté par Ambrosius
+Ambrosius  1 6 7
+Ubald  6 3 5
+Nombre de coups : 443
+Nombre d'échanges : 196
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Ambrosius 17 | Ubald 19
+
+1er tour Match 58
+
+Match opposant Gwyn à Stanley
+Match remporté par Stanley
+Gwyn  4 6
+Stanley  6 7
+Nombre de coups : 359
+Nombre d'échanges : 162
+Nombre de jeux : 23
+Nombre de sets : 2
+Doubles fautes : Gwyn 16 | Stanley 11
+
+1er tour Match 59
+
+Match opposant Hoagland à Grannias
+Match remporté par Grannias
+Hoagland  5 6
+Grannias  7 7
+Nombre de coups : 374
+Nombre d'échanges : 188
+Nombre de jeux : 25
+Nombre de sets : 2
+Doubles fautes : Hoagland 17 | Grannias 16
+
+1er tour Match 60
+
+Match opposant Gariepy à Albric
+Match remporté par Albric
+Gariepy  3 2
+Albric  6 6
+Nombre de coups : 251
+Nombre d'échanges : 128
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Gariepy 7 | Albric 18
+
+1er tour Match 61
+
+Match opposant Richella à Moonier
+Match remporté par Moonier
+Richella  3 4
+Moonier  6 6
+Nombre de coups : 289
+Nombre d'échanges : 135
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Richella 17 | Moonier 11
+
+1er tour Match 62
+
+Match opposant Sigfried à Lorine
+Match remporté par Sigfried
+Sigfried  3 6 6
+Lorine  6 1 2
+Nombre de coups : 322
+Nombre d'échanges : 167
+Nombre de jeux : 24
+Nombre de sets : 3
+Doubles fautes : Sigfried 12 | Lorine 25
+
+1er tour Match 63
+
+Match opposant Kaya à Hyrup
+Match remporté par Hyrup
+Kaya  6 4 2
+Hyrup  3 6 6
+Nombre de coups : 369
+Nombre d'échanges : 187
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Kaya 22 | Hyrup 24
+
+1er tour Match 64
+
+Match opposant Coulson à Wash
+Match remporté par Coulson
+Coulson  6 6
+Wash  4 4
+Nombre de coups : 298
+Nombre d'échanges : 144
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Coulson 14 | Wash 15
+
+
+
+2eme tour
+
+2eme tour Match 1
+
+Match opposant Dorcia à Baruch
+Match remporté par Baruch
+Dorcia  3 6 3
+Baruch  6 3 6
+Nombre de coups : 336
+Nombre d'échanges : 174
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Dorcia 17 | Baruch 21
+
+2eme tour Match 2
+
+Match opposant Blainey à Bary
+Match remporté par Bary
+Blainey  4 4
+Bary  6 6
+Nombre de coups : 260
+Nombre d'échanges : 142
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Blainey 17 | Bary 9
+
+2eme tour Match 3
+
+Match opposant Reeves à Waldman
+Match remporté par Waldman
+Reeves  4 2
+Waldman  6 6
+Nombre de coups : 215
+Nombre d'échanges : 117
+Nombre de jeux : 18
+Nombre de sets : 2
+Doubles fautes : Reeves 12 | Waldman 11
+
+2eme tour Match 4
+
+Match opposant Sikorski à Kelsy
+Match remporté par Kelsy
+Sikorski  2 3
+Kelsy  6 6
+Nombre de coups : 188
+Nombre d'échanges : 104
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Sikorski 16 | Kelsy 9
+
+2eme tour Match 5
+
+Match opposant Suelo à Forest
+Match remporté par Suelo
+Suelo  6 6
+Forest  4 2
+Nombre de coups : 217
+Nombre d'échanges : 105
+Nombre de jeux : 18
+Nombre de sets : 2
+Doubles fautes : Suelo 11 | Forest 14
+
+2eme tour Match 6
+
+Match opposant Nealey à Hovey
+Match remporté par Hovey
+Nealey  0 6 6
+Hovey  6 2 7
+Nombre de coups : 466
+Nombre d'échanges : 207
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Nealey 22 | Hovey 16
+
+2eme tour Match 7
+
+Match opposant Ribble à Betthezul
+Match remporté par Betthezul
+Ribble  7 5 3
+Betthezul  5 7 6
+Nombre de coups : 497
+Nombre d'échanges : 239
+Nombre de jeux : 33
+Nombre de sets : 3
+Doubles fautes : Ribble 23 | Betthezul 25
+
+2eme tour Match 8
+
+Match opposant Orvie à Kaliski
+Match remporté par Orvie
+Orvie  6 6
+Kaliski  4 2
+Nombre de coups : 226
+Nombre d'échanges : 127
+Nombre de jeux : 18
+Nombre de sets : 2
+Doubles fautes : Orvie 6 | Kaliski 19
+
+2eme tour Match 9
+
+Match opposant Bradford à Berton
+Match remporté par Bradford
+Bradford  6 3 6
+Berton  0 6 2
+Nombre de coups : 271
+Nombre d'échanges : 145
+Nombre de jeux : 23
+Nombre de sets : 3
+Doubles fautes : Bradford 11 | Berton 15
+
+2eme tour Match 10
+
+Match opposant Airlee à Natica
+Match remporté par Airlee
+Airlee  7 2 6
+Natica  6 6 4
+Nombre de coups : 434
+Nombre d'échanges : 211
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Airlee 30 | Natica 17
+
+2eme tour Match 11
+
+Match opposant Antoinetta à Bonnibelle
+Match remporté par Bonnibelle
+Antoinetta  4 3
+Bonnibelle  6 6
+Nombre de coups : 256
+Nombre d'échanges : 123
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Antoinetta 14 | Bonnibelle 9
+
+2eme tour Match 12
+
+Match opposant Husain à Parker
+Match remporté par Husain
+Husain  6 6
+Parker  2 4
+Nombre de coups : 205
+Nombre d'échanges : 115
+Nombre de jeux : 18
+Nombre de sets : 2
+Doubles fautes : Husain 12 | Parker 14
+
+2eme tour Match 13
+
+Match opposant Pamella à Trainer
+Match remporté par Pamella
+Pamella  7 2 6
+Trainer  6 6 4
+Nombre de coups : 432
+Nombre d'échanges : 218
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Pamella 32 | Trainer 17
+
+2eme tour Match 14
+
+Match opposant Phelgen à Paddie
+Match remporté par Phelgen
+Phelgen  6 3 7
+Paddie  3 6 5
+Nombre de coups : 426
+Nombre d'échanges : 202
+Nombre de jeux : 30
+Nombre de sets : 3
+Doubles fautes : Phelgen 18 | Paddie 19
+
+2eme tour Match 15
+
+Match opposant Pournaras à Tonkin
+Match remporté par Pournaras
+Pournaras  6 6
+Tonkin  4 2
+Nombre de coups : 250
+Nombre d'échanges : 131
+Nombre de jeux : 18
+Nombre de sets : 2
+Doubles fautes : Pournaras 12 | Tonkin 10
+
+2eme tour Match 16
+
+Match opposant Jauch à Zeiger
+Match remporté par Jauch
+Jauch  4 6 6
+Zeiger  6 3 3
+Nombre de coups : 405
+Nombre d'échanges : 194
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Jauch 20 | Zeiger 18
+
+2eme tour Match 17
+
+Match opposant Calvina à Samuella
+Match remporté par Calvina
+Calvina  7 6
+Samuella  6 1
+Nombre de coups : 251
+Nombre d'échanges : 134
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Calvina 13 | Samuella 13
+
+2eme tour Match 18
+
+Match opposant Steward à Weisberg
+Match remporté par Steward
+Steward  6 6
+Weisberg  2 4
+Nombre de coups : 201
+Nombre d'échanges : 104
+Nombre de jeux : 18
+Nombre de sets : 2
+Doubles fautes : Steward 7 | Weisberg 15
+
+2eme tour Match 19
+
+Match opposant Annaliese à Sapphera
+Match remporté par Sapphera
+Annaliese  1 4
+Sapphera  6 6
+Nombre de coups : 217
+Nombre d'échanges : 111
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Annaliese 16 | Sapphera 8
+
+2eme tour Match 20
+
+Match opposant Sheilah à Mandelbaum
+Match remporté par Sheilah
+Sheilah  6 6
+Mandelbaum  1 3
+Nombre de coups : 256
+Nombre d'échanges : 116
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Sheilah 8 | Mandelbaum 9
+
+2eme tour Match 21
+
+Match opposant Hollingsworth à Tawnya
+Match remporté par Hollingsworth
+Hollingsworth  6 6 6
+Tawnya  7 3 3
+Nombre de coups : 379
+Nombre d'échanges : 209
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Hollingsworth 20 | Tawnya 15
+
+2eme tour Match 22
+
+Match opposant Dani à Seedman
+Match remporté par Dani
+Dani  6 6
+Seedman  1 1
+Nombre de coups : 228
+Nombre d'échanges : 95
+Nombre de jeux : 14
+Nombre de sets : 2
+Doubles fautes : Dani 3 | Seedman 13
+
+2eme tour Match 23
+
+Match opposant Farlee à Fanchon
+Match remporté par Fanchon
+Farlee  5 6 5
+Fanchon  7 4 7
+Nombre de coups : 507
+Nombre d'échanges : 238
+Nombre de jeux : 34
+Nombre de sets : 3
+Doubles fautes : Farlee 24 | Fanchon 17
+
+2eme tour Match 24
+
+Match opposant Gino à Magill
+Match remporté par Gino
+Gino  6 2 6
+Magill  4 6 1
+Nombre de coups : 319
+Nombre d'échanges : 148
+Nombre de jeux : 25
+Nombre de sets : 3
+Doubles fautes : Gino 13 | Magill 9
+
+2eme tour Match 25
+
+Match opposant Latricia à Gwenette
+Match remporté par Latricia
+Latricia  6 6
+Gwenette  0 4
+Nombre de coups : 237
+Nombre d'échanges : 108
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Latricia 7 | Gwenette 14
+
+2eme tour Match 26
+
+Match opposant Bartlett à Charil
+Match remporté par Bartlett
+Bartlett  6 6
+Charil  3 4
+Nombre de coups : 215
+Nombre d'échanges : 110
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Bartlett 10 | Charil 10
+
+2eme tour Match 27
+
+Match opposant Niall à Kubiak
+Match remporté par Niall
+Niall  6 7
+Kubiak  1 6
+Nombre de coups : 261
+Nombre d'échanges : 126
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Niall 8 | Kubiak 13
+
+2eme tour Match 28
+
+Match opposant Schram à Omari
+Match remporté par Omari
+Schram  6 4 4
+Omari  3 6 6
+Nombre de coups : 364
+Nombre d'échanges : 200
+Nombre de jeux : 29
+Nombre de sets : 3
+Doubles fautes : Schram 30 | Omari 20
+
+2eme tour Match 29
+
+Match opposant Ambrosius à Stanley
+Match remporté par Stanley
+Ambrosius  1 2
+Stanley  6 6
+Nombre de coups : 223
+Nombre d'échanges : 109
+Nombre de jeux : 15
+Nombre de sets : 2
+Doubles fautes : Ambrosius 16 | Stanley 3
+
+2eme tour Match 30
+
+Match opposant Grannias à Albric
+Match remporté par Grannias
+Grannias  6 0 6
+Albric  1 6 2
+Nombre de coups : 264
+Nombre d'échanges : 115
+Nombre de jeux : 21
+Nombre de sets : 3
+Doubles fautes : Grannias 17 | Albric 11
+
+2eme tour Match 31
+
+Match opposant Moonier à Sigfried
+Match remporté par Sigfried
+Moonier  2 6
+Sigfried  6 7
+Nombre de coups : 298
+Nombre d'échanges : 148
+Nombre de jeux : 21
+Nombre de sets : 2
+Doubles fautes : Moonier 9 | Sigfried 18
+
+2eme tour Match 32
+
+Match opposant Hyrup à Coulson
+Match remporté par Hyrup
+Hyrup  6 7
+Coulson  2 5
+Nombre de coups : 255
+Nombre d'échanges : 128
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Hyrup 7 | Coulson 18
+
+
+
+3eme tour
+
+3eme tour Match 1
+
+Match opposant Baruch à Bary
+Match remporté par Baruch
+Baruch  7 6
+Bary  6 2
+Nombre de coups : 284
+Nombre d'échanges : 154
+Nombre de jeux : 21
+Nombre de sets : 2
+Doubles fautes : Baruch 20 | Bary 12
+
+3eme tour Match 2
+
+Match opposant Waldman à Kelsy
+Match remporté par Kelsy
+Waldman  0 6 4
+Kelsy  6 4 6
+Nombre de coups : 359
+Nombre d'échanges : 163
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Waldman 19 | Kelsy 9
+
+3eme tour Match 3
+
+Match opposant Suelo à Hovey
+Match remporté par Suelo
+Suelo  6 6
+Hovey  3 4
+Nombre de coups : 242
+Nombre d'échanges : 128
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Suelo 15 | Hovey 13
+
+3eme tour Match 4
+
+Match opposant Betthezul à Orvie
+Match remporté par Betthezul
+Betthezul  4 6 6
+Orvie  6 4 2
+Nombre de coups : 487
+Nombre d'échanges : 210
+Nombre de jeux : 28
+Nombre de sets : 3
+Doubles fautes : Betthezul 16 | Orvie 12
+
+3eme tour Match 5
+
+Match opposant Bradford à Airlee
+Match remporté par Bradford
+Bradford  6 1 6
+Airlee  2 6 2
+Nombre de coups : 307
+Nombre d'échanges : 152
+Nombre de jeux : 23
+Nombre de sets : 3
+Doubles fautes : Bradford 10 | Airlee 17
+
+3eme tour Match 6
+
+Match opposant Bonnibelle à Husain
+Match remporté par Bonnibelle
+Bonnibelle  4 7 6
+Husain  6 5 3
+Nombre de coups : 400
+Nombre d'échanges : 196
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Bonnibelle 20 | Husain 23
+
+3eme tour Match 7
+
+Match opposant Pamella à Phelgen
+Match remporté par Phelgen
+Pamella  4 4
+Phelgen  6 6
+Nombre de coups : 235
+Nombre d'échanges : 129
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Pamella 11 | Phelgen 17
+
+3eme tour Match 8
+
+Match opposant Pournaras à Jauch
+Match remporté par Pournaras
+Pournaras  6 6
+Jauch  3 4
+Nombre de coups : 234
+Nombre d'échanges : 130
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Pournaras 11 | Jauch 18
+
+3eme tour Match 9
+
+Match opposant Calvina à Steward
+Match remporté par Steward
+Calvina  1 3
+Steward  6 6
+Nombre de coups : 226
+Nombre d'échanges : 111
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Calvina 14 | Steward 10
+
+3eme tour Match 10
+
+Match opposant Sapphera à Sheilah
+Match remporté par Sheilah
+Sapphera  1 6 4
+Sheilah  6 4 6
+Nombre de coups : 317
+Nombre d'échanges : 165
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Sapphera 28 | Sheilah 15
+
+3eme tour Match 11
+
+Match opposant Hollingsworth à Dani
+Match remporté par Hollingsworth
+Hollingsworth  7 6
+Dani  6 1
+Nombre de coups : 296
+Nombre d'échanges : 141
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Hollingsworth 15 | Dani 17
+
+3eme tour Match 12
+
+Match opposant Fanchon à Gino
+Match remporté par Gino
+Fanchon  3 6
+Gino  6 7
+Nombre de coups : 318
+Nombre d'échanges : 166
+Nombre de jeux : 22
+Nombre de sets : 2
+Doubles fautes : Fanchon 15 | Gino 10
+
+3eme tour Match 13
+
+Match opposant Latricia à Bartlett
+Match remporté par Bartlett
+Latricia  4 7 6
+Bartlett  6 6 7
+Nombre de coups : 575
+Nombre d'échanges : 280
+Nombre de jeux : 36
+Nombre de sets : 3
+Doubles fautes : Latricia 30 | Bartlett 30
+
+3eme tour Match 14
+
+Match opposant Niall à Omari
+Match remporté par Niall
+Niall  6 3 7
+Omari  4 6 5
+Nombre de coups : 433
+Nombre d'échanges : 220
+Nombre de jeux : 31
+Nombre de sets : 3
+Doubles fautes : Niall 27 | Omari 15
+
+3eme tour Match 15
+
+Match opposant Stanley à Grannias
+Match remporté par Stanley
+Stanley  7 6
+Grannias  5 2
+Nombre de coups : 266
+Nombre d'échanges : 122
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Stanley 15 | Grannias 8
+
+3eme tour Match 16
+
+Match opposant Sigfried à Hyrup
+Match remporté par Hyrup
+Sigfried  4 4
+Hyrup  6 6
+Nombre de coups : 244
+Nombre d'échanges : 132
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Sigfried 12 | Hyrup 19
+
+
+
+Huitièmes de finale
+
+Huitièmes de finale Match 1
+
+Match opposant Baruch à Kelsy
+Match remporté par Baruch
+Baruch  2 6 6
+Kelsy  6 3 4
+Nombre de coups : 420
+Nombre d'échanges : 193
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Baruch 17 | Kelsy 20
+
+Huitièmes de finale Match 2
+
+Match opposant Suelo à Betthezul
+Match remporté par Betthezul
+Suelo  4 6
+Betthezul  6 7
+Nombre de coups : 292
+Nombre d'échanges : 159
+Nombre de jeux : 23
+Nombre de sets : 2
+Doubles fautes : Suelo 17 | Betthezul 20
+
+Huitièmes de finale Match 3
+
+Match opposant Bradford à Bonnibelle
+Match remporté par Bradford
+Bradford  4 7 6
+Bonnibelle  6 5 4
+Nombre de coups : 448
+Nombre d'échanges : 219
+Nombre de jeux : 32
+Nombre de sets : 3
+Doubles fautes : Bradford 21 | Bonnibelle 20
+
+Huitièmes de finale Match 4
+
+Match opposant Phelgen à Pournaras
+Match remporté par Pournaras
+Phelgen  6 2
+Pournaras  7 6
+Nombre de coups : 304
+Nombre d'échanges : 158
+Nombre de jeux : 21
+Nombre de sets : 2
+Doubles fautes : Phelgen 20 | Pournaras 14
+
+Huitièmes de finale Match 5
+
+Match opposant Steward à Sheilah
+Match remporté par Steward
+Steward  6 6 7
+Sheilah  3 7 6
+Nombre de coups : 486
+Nombre d'échanges : 264
+Nombre de jeux : 35
+Nombre de sets : 3
+Doubles fautes : Steward 21 | Sheilah 40
+
+Huitièmes de finale Match 6
+
+Match opposant Hollingsworth à Gino
+Match remporté par Hollingsworth
+Hollingsworth  3 6 6
+Gino  6 2 3
+Nombre de coups : 313
+Nombre d'échanges : 149
+Nombre de jeux : 26
+Nombre de sets : 3
+Doubles fautes : Hollingsworth 11 | Gino 13
+
+Huitièmes de finale Match 7
+
+Match opposant Bartlett à Niall
+Match remporté par Niall
+Bartlett  0 4
+Niall  6 6
+Nombre de coups : 208
+Nombre d'échanges : 100
+Nombre de jeux : 16
+Nombre de sets : 2
+Doubles fautes : Bartlett 7 | Niall 8
+
+Huitièmes de finale Match 8
+
+Match opposant Stanley à Hyrup
+Match remporté par Hyrup
+Stanley  4 3
+Hyrup  6 6
+Nombre de coups : 270
+Nombre d'échanges : 128
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Stanley 11 | Hyrup 14
+
+
+
+Quarts de finale
+
+Quarts de finale Match 1
+
+Match opposant Baruch à Betthezul
+Match remporté par Betthezul
+Baruch  2 3
+Betthezul  6 6
+Nombre de coups : 247
+Nombre d'échanges : 125
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Baruch 8 | Betthezul 17
+
+Quarts de finale Match 2
+
+Match opposant Bradford à Pournaras
+Match remporté par Pournaras
+Bradford  4 1
+Pournaras  6 6
+Nombre de coups : 249
+Nombre d'échanges : 121
+Nombre de jeux : 17
+Nombre de sets : 2
+Doubles fautes : Bradford 11 | Pournaras 9
+
+Quarts de finale Match 3
+
+Match opposant Steward à Hollingsworth
+Match remporté par Hollingsworth
+Steward  4 2
+Hollingsworth  6 6
+Nombre de coups : 199
+Nombre d'échanges : 112
+Nombre de jeux : 18
+Nombre de sets : 2
+Doubles fautes : Steward 18 | Hollingsworth 7
+
+Quarts de finale Match 4
+
+Match opposant Niall à Hyrup
+Match remporté par Niall
+Niall  6 6
+Hyrup  3 4
+Nombre de coups : 266
+Nombre d'échanges : 123
+Nombre de jeux : 19
+Nombre de sets : 2
+Doubles fautes : Niall 11 | Hyrup 9
+
+
+
+Demi finale
+
+Demi finale Match 1
+
+Match opposant Betthezul à Pournaras
+Match remporté par Betthezul
+Betthezul  6 7
+Pournaras  3 6
+Nombre de coups : 316
+Nombre d'échanges : 150
+Nombre de jeux : 22
+Nombre de sets : 2
+Doubles fautes : Betthezul 12 | Pournaras 11
+
+Demi finale Match 2
+
+Match opposant Hollingsworth à Niall
+Match remporté par Niall
+Hollingsworth  6 4 1
+Niall  4 6 6
+Nombre de coups : 338
+Nombre d'échanges : 169
+Nombre de jeux : 27
+Nombre de sets : 3
+Doubles fautes : Hollingsworth 18 | Niall 15
+
+
+
+Finale
+
+Finale Match 1
+
+Match opposant Betthezul à Niall
+Match remporté par Betthezul
+Betthezul  6 6
+Niall  4 4
+Nombre de coups : 265
+Nombre d'échanges : 130
+Nombre de jeux : 20
+Nombre de sets : 2
+Doubles fautes : Betthezul 19 | Niall 16
+
+
+
+
+
